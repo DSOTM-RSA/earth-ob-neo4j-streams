@@ -1,0 +1,21 @@
+name: Earth Observation Natural Events Data Import
+
+on:
+  push:
+    paths:
+      - earthobs.yml
+  workflow_dispatch:
+  schedule:
+    - cron: '0 16 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Fetch newest
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://eonet.sci.gsfc.nasa.gov/api/v3/events?limit=1&days.json
+          downloaded_filename: newest.json

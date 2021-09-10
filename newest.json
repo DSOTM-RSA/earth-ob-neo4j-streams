@@ -4,54 +4,33 @@
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_5924",
-			"title": "Tropical Storm Mindy",
+			"id": "EONET_5925",
+			"title": "Wildfire - E of Mesa, Arizona - United States",
             "description": null,
-			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5924",
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5925",
 			"closed": null,
 				"categories": [
 					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
+					"id": "wildfires",
+					"title": "Wildfires"
 				}
 
 	    				],
     			"sources": [
 					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000826&amp;eventtype=TC"
-				},
-
-							{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2021/MINDY.shtml"
+					"id": "PDC",
+					"url": "http://emops.pdc.org/emops/?hazard_id=130287"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-08T21:00:00Z",
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2021-09-10T00:41:00Z",
 					"type": "Point", 
-							"coordinates": [ -86.3, 29 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-09T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -84.5, 29.9 ]
-							},
-
-							{
-							"magnitudeValue": 30.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-09T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -83, 30.8 ]
+							"coordinates": [ -110.861358494, 33.417542977 ]
 							}
 
 						

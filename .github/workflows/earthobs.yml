@@ -6,7 +6,7 @@ on:
       - earthobs.yml
   workflow_dispatch:
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '0 17 * * *'
 
 jobs:
   scheduled:
@@ -19,3 +19,20 @@ jobs:
         with:
           http_url: https://eonet.sci.gsfc.nasa.gov/api/v3/events?limit=1&days.json
           downloaded_filename: newest.json
+      - name: Neo4j import
+        uses: johnymontana/flat-graph@v1.2
+        with:
+          neo4j-user: ${{secrets.NEO4J_USER}}
+          neo4j-password: ${{secrets.NEO4J_PASSWORD}}
+          neo4j-uri: ${{secrets.NEO4J_URI}}
+          filename: newest.json
+          cypher-query: >
+            UNWIND $value.events as e
+            UNWIND e.sources as s
+            UNWIND e.categories as c
+            UNWIND e.geometry as g
+            merge(event:Event {id:e.id}) ON CREATE SET event.title=e.title, event.date = e.date, event.coordinates = g.coordinates
+            merge (source:Source {name:s.id}) ON CREATE SET source.url = s.url
+            merge (source)-[:DETECTED_BY]->(event)
+            merge(category:Category {name:c.title})
+            merge (category)<-[:OF_TYPE]-(event) 

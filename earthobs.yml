@@ -3,10 +3,10 @@ name: Earth Observation Natural Events Data Import
 on:
   push:
     paths:
-      - .github/workflows/earthobs.yml
+      - earthobs.yml
   workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 16 * * *'
 
 jobs:
   scheduled:

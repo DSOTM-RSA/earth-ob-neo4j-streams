@@ -4,33 +4,33 @@
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_5926",
-			"title": "Wildfire - NE of Dnipropetrovsk, Dnipropetrovsk - Ukraine",
+			"id": "EONET_5927",
+			"title": "Tropical Storm Nicholas",
             "description": null,
-			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5926",
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5927",
 			"closed": null,
 				"categories": [
 					{
-					"id": "wildfires",
-					"title": "Wildfires"
+					"id": "severeStorms",
+					"title": "Severe Storms"
 				}
 
 	    				],
     			"sources": [
 					{
-					"id": "PDC",
-					"url": "http://emops.pdc.org/emops/?hazard_id=130300"
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2021/NICHOLAS.shtml"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2021-09-10T11:50:00Z",
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-12T15:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 35.475028187, 48.686237557 ]
+							"coordinates": [ -94.8, 20.5 ]
 							}
 
 						

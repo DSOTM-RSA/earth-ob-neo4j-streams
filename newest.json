@@ -18,6 +18,11 @@
 	    				],
     			"sources": [
 					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000827&amp;eventtype=TC"
+				},
+
+							{
 					"id": "NOAA_NHC",
 					"url": "https://www.nhc.noaa.gov/archive/2021/NICHOLAS.shtml"
 				}
@@ -31,6 +36,38 @@
 					"date": "2021-09-12T15:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -94.8, 20.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-12T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -95.5, 22.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-13T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -95.5, 22.5 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-13T04:30:00Z",
+					"type": "Point", 
+							"coordinates": [ -96.3, 24.8 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-13T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -96.6, 25.5 ]
 							}
 
 						

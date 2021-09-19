@@ -17,7 +17,7 @@ jobs:
       - name: Fetch newest
         uses: githubocto/flat@v2
         with:
-          http_url: https://eonet.sci.gsfc.nasa.gov/api/v3/events?limit=1&days.json
+          http_url: https://eonet.sci.gsfc.nasa.gov/api/v3/events?days=1.json
           downloaded_filename: newest.json
       - name: Neo4j import
         uses: johnymontana/flat-graph@v1.2
@@ -31,8 +31,9 @@ jobs:
             UNWIND e.sources as s
             UNWIND e.categories as c
             UNWIND e.geometry as g
-            merge(event:Event {id:e.id}) ON CREATE SET event.title=e.title, event.date = e.date, event.coordinates = g.coordinates
+            merge(event:Event {id:e.id}) ON CREATE SET event.title=e.title, event.date = g.date, event.coordinates = g.coordinates
             merge (source:Source {name:s.id}) ON CREATE SET source.url = s.url
             merge (source)-[:DETECTED_BY]->(event)
             merge(category:Category {name:c.title})
             merge (category)<-[:OF_TYPE]-(event) 
+            RETURN e.title, e.id ,s.id, s.url, c.title, g.date,g.coordinates

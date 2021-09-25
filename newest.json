@@ -4,49 +4,10 @@
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_5938",
-			"title": "Tropical Storm 03B",
+			"id": "EONET_5940",
+			"title": "Wildfire - E of Tulare, California - United States",
             "description": null,
-			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5938",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000834&amp;eventtype=TC"
-				},
-
-							{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/io0321.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-24T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 92.1, 18.8 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_5939",
-			"title": "Wildfire - NE of Redding, California - United States",
-            "description": null,
-			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5939",
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5940",
 			"closed": null,
 				"categories": [
 					{
@@ -58,7 +19,7 @@
     			"sources": [
 					{
 					"id": "PDC",
-					"url": "http://emops.pdc.org/emops/?hazard_id=130903"
+					"url": "http://emops.pdc.org/emops/?hazard_id=130925"
 				}
 
 						
@@ -67,143 +28,9 @@
 					{
 							"magnitudeValue": null,
 					"magnitudeUnit": null,
-					"date": "2021-09-23T21:40:00Z",
+					"date": "2021-09-24T15:41:00Z",
 					"type": "Point", 
-							"coordinates": [ -122.300586725, 40.707903489 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_5936",
-			"title": "Tropical Storm Mindulle",
-            "description": null,
-			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5936",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000831&amp;eventtype=TC"
-				},
-
-							{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp2021.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-23T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 144.7, 13 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-23T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 142.8, 13.8 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-23T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 141.8, 14.1 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-24T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 140.9, 14.6 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-24T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 140.3, 15.4 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_5937",
-			"title": "Tropical Storm Sam",
-            "description": null,
-			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5937",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000833&amp;eventtype=TC"
-				},
-
-							{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2021/SAM.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-23T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -38.1, 10.9 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-23T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -39.7, 11.1 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-24T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -40.9, 11.2 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2021-09-24T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -42.2, 11.5 ]
+							"coordinates": [ -118.664197288, 36.090993645 ]
 							}
 
 						

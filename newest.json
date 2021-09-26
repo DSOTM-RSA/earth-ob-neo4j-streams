@@ -3,39 +3,5 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
-		{
-			"id": "EONET_5940",
-			"title": "Wildfire - E of Tulare, California - United States",
-            "description": null,
-			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5940",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "PDC",
-					"url": "http://emops.pdc.org/emops/?hazard_id=130925"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2021-09-24T15:41:00Z",
-					"type": "Point", 
-							"coordinates": [ -118.664197288, 36.090993645 ]
-							}
-
-						
-			]
-		}
-
-		]
+	]
 }

@@ -4,6 +4,61 @@
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_5943",
+			"title": "Tropical Storm Victor",
+            "description": null,
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5943",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000836&amp;eventtype=TC"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2021/VICTOR.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-29T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -25.5, 8.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-30T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -26.7, 8.4 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-30T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -27.3, 8.7 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_5936",
 			"title": "Tropical Storm Mindulle",
             "description": null,
@@ -228,6 +283,22 @@
 					"date": "2021-09-29T18:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 135.5, 22.6 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-30T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 136.4, 26.7 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-30T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 137.3, 28 ]
 							}
 
 						
@@ -451,6 +522,38 @@
 					"date": "2021-09-29T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -56.2, 18.9 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-29T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -57, 19.4 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-29T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -57.6, 20.2 ]
+							},
+
+							{
+							"magnitudeValue": 125.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-30T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -58.4, 20.6 ]
+							},
+
+							{
+							"magnitudeValue": 125.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-09-30T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -59.1, 21.5 ]
 							}
 
 						

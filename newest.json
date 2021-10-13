@@ -4,10 +4,10 @@
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_5949",
-			"title": "Wildfire - W of Santa Barbara, California - United States",
+			"id": "EONET_5951",
+			"title": "Wildfire - W of Tulare, California - United States",
             "description": null,
-			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5949",
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5951",
 			"closed": null,
 				"categories": [
 					{
@@ -19,7 +19,7 @@
     			"sources": [
 					{
 					"id": "PDC",
-					"url": "http://emops.pdc.org/emops/?hazard_id=131731"
+					"url": "http://emops.pdc.org/emops/?hazard_id=131761"
 				}
 
 						
@@ -28,9 +28,9 @@
 					{
 							"magnitudeValue": null,
 					"magnitudeUnit": null,
-					"date": "2021-10-12T09:38:00Z",
+					"date": "2021-10-12T21:39:00Z",
 					"type": "Point", 
-							"coordinates": [ -120.106440487, 34.50631889 ]
+							"coordinates": [ -120.07159514, 36.082566967 ]
 							}
 
 						
@@ -131,6 +131,38 @@
 					"date": "2021-10-12T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -108.9, 18.7 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-12T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -109.2, 19.7 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-12T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -109.3, 20.6 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-13T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -108.9, 21.5 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-13T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -108.3, 22.2 ]
 							}
 
 						
@@ -234,6 +266,30 @@
 					"date": "2021-10-12T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 117.4, 18.8 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-12T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 116.2, 18.8 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-12T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 114.5, 19.1 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-13T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 112.7, 19.1 ]
 							}
 
 						
@@ -337,6 +393,38 @@
 					"date": "2021-10-12T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 152.1, 19.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-12T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 151.8, 19.9 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-12T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 151.9, 20.7 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-13T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 152.3, 21.6 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-13T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 152.6, 22.6 ]
 							}
 
 						

@@ -5,7 +5,7 @@
 	"events": [
 		{
 			"id": "EONET_5948",
-			"title": "Tropical Storm Namtheun",
+			"title": "Typhoon Namtheun",
             "description": null,
 			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5948",
 			"closed": null,
@@ -196,6 +196,38 @@
 					"date": "2021-10-15T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 161.6, 26.2 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-15T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 162.3, 27.1 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-15T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 163.3, 28 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-16T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 164.3, 29.4 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-16T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 165.3, 30.8 ]
 							}
 
 						

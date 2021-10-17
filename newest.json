@@ -4,6 +4,40 @@
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_5952",
+			"title": "Wildfire - SW of Yuba City, California - United States",
+            "description": null,
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5952",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "PDC",
+					"url": "http://emops.pdc.org/emops/?hazard_id=131937"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2021-10-16T21:38:00Z",
+					"type": "Point", 
+							"coordinates": [ -121.667893746, 39.092390021 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_5948",
 			"title": "Typhoon Namtheun",
             "description": null,
@@ -228,6 +262,38 @@
 					"date": "2021-10-16T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 165.3, 30.8 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-16T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 165.9, 31.8 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-16T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 166.7, 32.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-17T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 167.2, 33.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-17T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 167.5, 34.8 ]
 							}
 
 						

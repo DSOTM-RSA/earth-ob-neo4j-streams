@@ -3,5 +3,73 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_5953",
+			"title": "Wildfire - W of Gila Bend, Arizona - United States",
+            "description": null,
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5953",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "PDC",
+					"url": "http://emops.pdc.org/emops/?hazard_id=132012"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2021-10-18T21:39:00Z",
+					"type": "Point", 
+							"coordinates": [ -113.498576997, 32.974491635 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_5954",
+			"title": "Wildfire - W of Yuba City, California - United States",
+            "description": null,
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5954",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "PDC",
+					"url": "http://emops.pdc.org/emops/?hazard_id=132011"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2021-10-18T21:39:00Z",
+					"type": "Point", 
+							"coordinates": [ -122.164046901, 39.080745035 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

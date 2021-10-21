@@ -3,39 +3,5 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
-		{
-			"id": "EONET_5955",
-			"title": "Wildfire - W of Agen, Aquitaine - France",
-            "description": null,
-			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5955",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "PDC",
-					"url": "http://emops.pdc.org/emops/?hazard_id=132036"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2021-10-19T14:36:00Z",
-					"type": "Point", 
-							"coordinates": [ -0.011595617, 44.062464887 ]
-							}
-
-						
-			]
-		}
-
-		]
+	]
 }

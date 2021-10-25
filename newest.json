@@ -3,5 +3,218 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_5962",
+			"title": "Wildfire - E of Mesa, Arizona - United States",
+            "description": null,
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5962",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "PDC",
+					"url": "http://emops.pdc.org/emops/?hazard_id=132297"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2021-10-24T21:38:00Z",
+					"type": "Point", 
+							"coordinates": [ -110.861165478, 33.416293179 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_5960",
+			"title": "Hurricane Rick",
+            "description": null,
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5960",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000841&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep1721.tcw"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2021/RICK.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-22T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -100.9, 12.9 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-23T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.2, 13.2 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-23T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.4, 13.7 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-23T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.5, 14.3 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-23T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.7, 14.9 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-24T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.7, 15.2 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-24T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.6, 15.4 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-24T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.6, 15.7 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-24T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.6, 16 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-25T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.6, 16.5 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-25T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.7, 17.2 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_5961",
+			"title": "Tropical Storm Malou",
+            "description": null,
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5961",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000842&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp2521.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-24T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 139.2, 14.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-25T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 138.5, 16.7 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-25T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 138.4, 18.3 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

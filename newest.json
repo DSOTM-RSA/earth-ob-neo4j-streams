@@ -3,5 +3,89 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_5966",
+			"title": "Wildfire - S of Tillamook, Oregon - United States",
+            "description": null,
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5966",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "PDC",
+					"url": "http://emops.pdc.org/emops/?hazard_id=132731"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2021-10-31T09:38:00Z",
+					"type": "Point", 
+							"coordinates": [ -123.929934447, 45.009877614 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_5967",
+			"title": "Subtropical Storm Wanda",
+            "description": null,
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5967",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2021/WANDA.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-31T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -45.4, 36.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-31T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -43.9, 36.5 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-10-31T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -43.2, 36.4 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

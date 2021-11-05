@@ -4,6 +4,40 @@
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_5968",
+			"title": "Wildfire - NW of Brighton, Brighton and Hove - United Kingdom",
+            "description": null,
+			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5968",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "PDC",
+					"url": "http://emops.pdc.org/emops/?hazard_id=132962"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2021-11-05T05:35:00Z",
+					"type": "Point", 
+							"coordinates": [ -0.444536626, 51.12941477 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_5967",
 			"title": "Subtropical Storm Wanda",
             "description": null,
@@ -172,6 +206,38 @@
 					"date": "2021-11-04T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -39.5, 41.5 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-11-04T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -39.6, 41.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-11-04T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -39.2, 42.4 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-11-05T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -38.7, 42.3 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-11-05T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -38, 41.8 ]
 							}
 
 						

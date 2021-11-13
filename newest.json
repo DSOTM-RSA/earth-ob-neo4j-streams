@@ -3,39 +3,5 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events",
 	"events": [
-		{
-			"id": "EONET_5972",
-			"title": "Wildfire - SW of Boulder City, Nevada - United States",
-            "description": null,
-			"link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5972",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "PDC",
-					"url": "http://emops.pdc.org/emops/?hazard_id=133260"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2021-11-11T20:40:00Z",
-					"type": "Point", 
-							"coordinates": [ -115.354724564, 35.621645413 ]
-							}
-
-						
-			]
-		}
-
-		]
+	]
 }

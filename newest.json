@@ -4,40 +4,6 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_5975",
-			"title": "Wildfire - NW of Montpelier, Idaho - United States",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5975",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "PDC",
-					"url": "http://emops.pdc.org/emops/?hazard_id=133661"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2021-11-22T20:37:00Z",
-					"type": "Point", 
-							"coordinates": [ -111.590258883, 42.686767291 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_5973",
 			"title": "Tropical Cyclone Paddy",
             "description": null,
@@ -110,6 +76,30 @@
 					"date": "2021-11-23T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 106.8, -13.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-11-23T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 106.9, -14 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-11-24T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 106.7, -14.1 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-11-24T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 106.4, -14.2 ]
 							}
 
 						

@@ -52,6 +52,77 @@
 					"date": "2021-11-30T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 138.1, 12.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-11-30T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 137.6, 13 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-11-30T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 137, 13.2 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_5979",
+			"title": "Tropical Cyclone 02S",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5979",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000850&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0222.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-11-30T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 102.8, -8.0 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-01T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 102.8, -8.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-01T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 102.3, -9.2 ]
 							}
 
 						

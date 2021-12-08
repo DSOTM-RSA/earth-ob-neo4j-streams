@@ -3,5 +3,284 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_5979",
+			"title": "Tropical Cyclone Teratai",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5979",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000850&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0222.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-11-30T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 102.8, -8.0 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-01T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 102.8, -8.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-01T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 102.3, -9.2 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-01T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 101.9, -9.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-01T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 101.6, -10.3 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-02T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 101.1, -10 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-02T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 100.8, -9.8 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-02T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 100.6, -9.2 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-02T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 99.9, -9.1 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-03T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 99.1, -8.9 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-03T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 98.5, -9 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-03T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 98.1, -8.6 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-03T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 97.3, -8.6 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-04T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 96.9, -8.5 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-04T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 96.6, -8.3 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-04T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 96.7, -7.9 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-04T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 97.7, -7.4 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-05T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 98.3, -7.4 ]
+							},
+
+							{
+							"magnitudeValue": 20.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-05T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 99.0, -7.9 ]
+							},
+
+							{
+							"magnitudeValue": 20.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-05T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 100.3, -8.3 ]
+							},
+
+							{
+							"magnitudeValue": 20.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-05T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 101.4, -8.5 ]
+							},
+
+							{
+							"magnitudeValue": 20.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-06T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 102.6, -8.6 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-06T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 104, -8.7 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-06T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 105.1, -9.1 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-06T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 105.9, -9.6 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-07T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 106.3, -10.1 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-07T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 106.5, -10.8 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-07T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 106.5, -11.4 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-07T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 106.6, -12 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-08T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 106.3, -12.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-08T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 105.8, -13.1 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

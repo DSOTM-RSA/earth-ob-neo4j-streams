@@ -276,6 +276,38 @@
 					"date": "2021-12-08T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 105.8, -13.1 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-08T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 105.2, -13.6 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-08T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 104.3, -14.1 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-09T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 103.6, -14.3 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-09T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 102.9, -14.3 ]
 							}
 
 						

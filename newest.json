@@ -124,6 +124,30 @@
 					"date": "2021-12-16T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 126, 9.9 ]
+							},
+
+							{
+							"magnitudeValue": 120.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-16T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 124.3, 10.1 ]
+							},
+
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-16T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 122.5, 10.1 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2021-12-17T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 121.1, 10 ]
 							}
 
 						

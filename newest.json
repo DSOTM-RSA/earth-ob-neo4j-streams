@@ -4,33 +4,54 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_6001",
-			"title": "Wildfire - SW of Tarbes, Midi-Pyrnes - France",
+			"id": "EONET_6002",
+			"title": "Tropical Cyclone Batsirai",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6001",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6002",
 			"closed": null,
 				"categories": [
 					{
-					"id": "wildfires",
-					"title": "Wildfires"
+					"id": "severeStorms",
+					"title": "Severe Storms"
 				}
 
 	    				],
     			"sources": [
 					{
-					"id": "PDC",
-					"url": "http://emops.pdc.org/emops/?hazard_id=136603"
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000859&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0822.tcw"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2022-01-25T13:35:00Z",
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-01-27T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -0.564755574, 42.971017184 ]
+							"coordinates": [ 83.7, -16.4 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-01-27T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 81.9, -16.9 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-01-27T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 79.6, -18 ]
 							}
 
 						

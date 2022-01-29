@@ -4,10 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_6003",
-			"title": "Wildfire - E of Mesa, Arizona - United States",
+			"id": "EONET_6004",
+			"title": "Wildfire - E of Braga - Portugal",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6003",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6004",
 			"closed": null,
 				"categories": [
 					{
@@ -19,7 +19,7 @@
     			"sources": [
 					{
 					"id": "PDC",
-					"url": "http://emops.pdc.org/emops/?hazard_id=136709"
+					"url": "http://emops.pdc.org/emops/?hazard_id=136718"
 				}
 
 						
@@ -28,9 +28,43 @@
 					{
 							"magnitudeValue": null,
 					"magnitudeUnit": null,
-					"date": "2022-01-28T08:38:00Z",
+					"date": "2022-01-28T13:35:00Z",
 					"type": "Point", 
-							"coordinates": [ -110.860071422, 33.416654251 ]
+							"coordinates": [ -8.091955323, 41.517611178 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6005",
+			"title": "Wildfire - N of Vila Real - Portugal",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6005",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "PDC",
+					"url": "http://emops.pdc.org/emops/?hazard_id=136717"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2022-01-28T13:35:00Z",
+					"type": "Point", 
+							"coordinates": [ -7.675316232, 41.808267161 ]
 							}
 
 						

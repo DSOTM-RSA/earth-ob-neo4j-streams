@@ -4,10 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_6004",
-			"title": "Wildfire - E of Braga - Portugal",
+			"id": "EONET_6006",
+			"title": "Wildfire - N of Viseu - Portugal",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6004",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6006",
 			"closed": null,
 				"categories": [
 					{
@@ -19,7 +19,7 @@
     			"sources": [
 					{
 					"id": "PDC",
-					"url": "http://emops.pdc.org/emops/?hazard_id=136718"
+					"url": "http://emops.pdc.org/emops/?hazard_id=136764"
 				}
 
 						
@@ -28,43 +28,9 @@
 					{
 							"magnitudeValue": null,
 					"magnitudeUnit": null,
-					"date": "2022-01-28T13:35:00Z",
+					"date": "2022-01-29T13:36:00Z",
 					"type": "Point", 
-							"coordinates": [ -8.091955323, 41.517611178 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6005",
-			"title": "Wildfire - N of Vila Real - Portugal",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6005",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "PDC",
-					"url": "http://emops.pdc.org/emops/?hazard_id=136717"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2022-01-28T13:35:00Z",
-					"type": "Point", 
-							"coordinates": [ -7.675316232, 41.808267161 ]
+							"coordinates": [ -8.009577928, 41.002191345 ]
 							}
 
 						

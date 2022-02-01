@@ -156,6 +156,93 @@
 					"date": "2022-01-31T00:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 64.5, -16.4 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-01-31T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 63.8, -15.9 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-01-31T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 63.2, -15.9 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-01-31T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 62.9, -16 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-01T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 62.3, -16.4 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6008",
+			"title": "Tropical Cyclone 09",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6008",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000862&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0922.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-01-31T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 152, -14.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-01T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 152.6, -15 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-01T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 153.2, -15.2 ]
 							}
 
 						

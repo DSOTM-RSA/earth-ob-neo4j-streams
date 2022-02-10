@@ -52,6 +52,30 @@
 					"date": "2022-02-09T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 169.6, -20.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-09T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 169, -20.5 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-10T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 168.6, -21.2 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-10T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 167.9, -22.2 ]
 							}
 
 						

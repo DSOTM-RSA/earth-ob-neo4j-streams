@@ -108,6 +108,22 @@
 					"date": "2022-02-11T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 166.2, -26.8 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-11T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 166, -28.9 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-11T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 166.1, -31.4 ]
 							}
 
 						

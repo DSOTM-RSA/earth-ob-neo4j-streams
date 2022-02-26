@@ -4,40 +4,6 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_6024",
-			"title": "Tropical Cyclone 15S",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6024",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/sh1522.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-25T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 127.8, -12.8 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_6023",
 			"title": "Tropical Cyclone Vernon",
             "description": null,
@@ -78,6 +44,30 @@
 					"date": "2022-02-25T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 94.4, -13.8 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-25T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 93.3, -14.5 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-25T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 92.5, -14.7 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-26T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 90.8, -14.8 ]
 							}
 
 						
@@ -85,10 +75,10 @@
 		},
 
 			{
-			"id": "EONET_6019",
-			"title": "Tropical Cyclone Emnati",
+			"id": "EONET_6024",
+			"title": "Tropical Cyclone 15S",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6019",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6024",
 			"closed": null,
 				"categories": [
 					{
@@ -99,13 +89,8 @@
 	    				],
     			"sources": [
 					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000866&amp;eventtype=TC"
-				},
-
-							{
 					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/sh1322.tcw"
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh1522.tcw"
 				}
 
 						
@@ -114,265 +99,33 @@
 					{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-02-16T18:00:00Z",
+					"date": "2022-02-25T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 68.4, -14.1 ]
+							"coordinates": [ 127.8, -12.8 ]
 							},
 
 							{
 							"magnitudeValue": 45.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-02-17T00:00:00Z",
+					"date": "2022-02-25T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 67.4, -14.1 ]
+							"coordinates": [ 127.6, -13 ]
 							},
 
 							{
 							"magnitudeValue": 45.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-02-17T06:00:00Z",
+					"date": "2022-02-26T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 65.8, -14 ]
+							"coordinates": [ 127.6, -13 ]
 							},
 
 							{
 							"magnitudeValue": 55.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-02-17T12:00:00Z",
+					"date": "2022-02-26T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 64.2, -13.9 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-17T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 63.7, -13.7 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-18T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 63, -13.4 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-18T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 62.1, -14 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-18T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 61.3, -14.4 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-18T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 60.4, -15.4 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-19T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 59.5, -16 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-19T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 58.8, -16 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-19T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 58.1, -16.4 ]
-							},
-
-							{
-							"magnitudeValue": 85.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-19T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 57.1, -16.9 ]
-							},
-
-							{
-							"magnitudeValue": 105.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-20T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 56.6, -17.1 ]
-							},
-
-							{
-							"magnitudeValue": 105.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-20T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 55.9, -17.2 ]
-							},
-
-							{
-							"magnitudeValue": 115.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-20T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 55.2, -17.6 ]
-							},
-
-							{
-							"magnitudeValue": 110.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-20T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 54.6, -17.6 ]
-							},
-
-							{
-							"magnitudeValue": 105.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-21T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 54, -17.6 ]
-							},
-
-							{
-							"magnitudeValue": 100.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-21T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 53.5, -17.9 ]
-							},
-
-							{
-							"magnitudeValue": 100.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-21T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 52.7, -18.2 ]
-							},
-
-							{
-							"magnitudeValue": 95.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-21T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 52.1, -18.5 ]
-							},
-
-							{
-							"magnitudeValue": 90.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-22T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 51.2, -19.1 ]
-							},
-
-							{
-							"magnitudeValue": 80.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-22T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 50.3, -19.8 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-22T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 49.5, -20.8 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-22T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 48.8, -21.6 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-23T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 47.9, -22.6 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-23T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 46.3, -23.6 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-23T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 45.1, -24.3 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-23T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 43.5, -24.7 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-24T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 43.4, -25.2 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-24T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 43, -27 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-24T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 42.2, -27.8 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-24T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 41.8, -28.7 ]
+							"coordinates": [ 127.2, -13.2 ]
 							}
 
 						

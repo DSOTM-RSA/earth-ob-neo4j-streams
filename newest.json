@@ -100,80 +100,38 @@
 					"date": "2022-02-27T00:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 87.4, -12.3 ]
-							}
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_6024",
-			"title": "Tropical Cyclone 15S",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6024",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/sh1522.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
+							{
+							"magnitudeValue": 85.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-02-25T12:00:00Z",
+					"date": "2022-02-27T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 127.8, -12.8 ]
+							"coordinates": [ 87.3, -12 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-02-27T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 88.4, -12.2 ]
 							},
 
 							{
 							"magnitudeValue": 45.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-02-25T18:00:00Z",
+					"date": "2022-02-27T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 127.6, -13 ]
+							"coordinates": [ 89, -13.5 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 40.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-02-26T00:00:00Z",
+					"date": "2022-02-28T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 127.6, -13 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-26T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 127.2, -13.2 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-26T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 126.9, -13.7 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-02-26T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 126.8, -14.2 ]
+							"coordinates": [ 87.5, -14.9 ]
 							}
 
 						

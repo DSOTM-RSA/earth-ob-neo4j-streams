@@ -140,6 +140,80 @@
 					"date": "2022-04-07T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 164.8, -23.9 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-07T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 165, -24.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-08T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 165.8, -25.2 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6043",
+			"title": "Tropical Storm Malakas",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6043",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp0222.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-07T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 146.7, 4.5 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-08T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 146.3, 5.1 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-08T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 146, 5.7 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-08T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 145.7, 6.2 ]
 							}
 
 						

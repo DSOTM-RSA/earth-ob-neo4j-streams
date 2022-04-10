@@ -87,6 +87,38 @@
 					"date": "2022-04-09T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 143, 8.4 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-09T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 142, 9.7 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-10T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 140.3, 11.6 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-10T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 138.1, 11.9 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-10T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 136.8, 12.4 ]
 							}
 
 						

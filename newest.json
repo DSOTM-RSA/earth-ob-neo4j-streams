@@ -5,7 +5,7 @@
 	"events": [
 		{
 			"id": "EONET_6043",
-			"title": "Tropical Storm Malakas",
+			"title": "Typhoon Malakas",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6043",
 			"closed": null,
@@ -18,6 +18,11 @@
 	    				],
     			"sources": [
 					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000878&amp;eventtype=TC"
+				},
+
+							{
 					"id": "JTWC",
 					"url": "https://www.metoc.navy.mil/jtwc/products/wp0222.tcw"
 				}
@@ -119,6 +124,117 @@
 					"date": "2022-04-10T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 136.8, 12.4 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-10T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 136.9, 11.9 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-11T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 136.5, 12.5 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-11T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 136, 13.5 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-11T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 135.7, 14.2 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6046",
+			"title": "Tropical Storm Megi",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6046",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000879&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp0322.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-10T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.9, 11 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-10T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ PIONT(125.4, 10.7) ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-10T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125, 10.8 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-10T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 124.7, 10.9 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-11T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 124.3, 11.1 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-04-11T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 124, 11.3 ]
 							}
 
 						

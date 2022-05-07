@@ -17,7 +17,7 @@ jobs:
       - name: Fetch newest
         uses: githubocto/flat@v2
         with:
-          http_url: https://eonet.sci.gsfc.nasa.gov/api/v3/events?days=1
+          http_url: https://eonet.gsfc.nasa.gov/api/v3/events?days=1
           downloaded_filename: newest.json
       - name: Neo4j import
         uses: johnymontana/flat-graph@v1.2

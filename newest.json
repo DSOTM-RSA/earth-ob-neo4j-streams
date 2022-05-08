@@ -3,39 +3,5 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-		{
-			"id": "EONET_6052",
-			"title": "Gaua Volcano, Vanuatu",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6052",
-			"closed": null,
-				"categories": [
-					{
-					"id": "volcanoes",
-					"title": "Volcanoes"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "SIVolcano",
-					"url": "https://volcano.si.edu/volcano.cfm?vn=257020"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2022-05-03T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 167.5, -14.27 ]
-							}
-
-						
-			]
-		}
-
-		]
+	]
 }

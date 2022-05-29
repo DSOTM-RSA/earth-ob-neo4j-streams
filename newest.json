@@ -3,5 +3,89 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6071",
+			"title": "Hurricane Agatha",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6071",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000886&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep0122.tcw"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2022/AGATHA.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-05-28T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -98.1, 12.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-05-28T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -98.4, 13.2 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-05-28T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -98.1, 13.8 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-05-29T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -98.6, 13.8 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-05-29T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -98.8, 14 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-05-29T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -99.1, 14 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

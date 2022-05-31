@@ -113,40 +113,38 @@
 					"date": "2022-05-30T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -97.4, 15.1 ]
-							}
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_6072",
-			"title": "Foster Fire ",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6072",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "InciWeb",
-					"url": "http://inciweb.nwcg.gov/incident/8125/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2022-05-29T13:00:00Z",
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-05-30T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -109.024, 31.513999999999999 ]
+							"coordinates": [ -96.9, 15.4 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-05-31T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -96.4, 15.9 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-05-31T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -95.8, 16.5 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-05-31T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -95.3, 17 ]
 							}
 
 						

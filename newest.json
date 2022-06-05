@@ -5,8 +5,8 @@
 	"events": [
 		{
 			"id": "EONET_6071",
-			"title": "Hurricane Agatha",
-            "description": null,
+			"title": "Hurricane Agatha/Alex",
+            "description": "Hurricane Agatha was renamed Hurricane Alex after it moved from the Eastern North Pacific basin to the Atlantic basin.",
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6071",
 			"closed": null,
 				"categories": [
@@ -177,6 +177,54 @@
 					"date": "2022-06-03T15:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -86.8, 22.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-03T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -85.8, 23 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-04T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -83.7, 24.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-04T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -83.1, 25.6 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-04T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -81.4, 26.5 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-04T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -79.8, 27.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-05T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -78.2, 28.4 ]
 							}
 
 						

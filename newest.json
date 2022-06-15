@@ -5,7 +5,7 @@
 	"events": [
 		{
 			"id": "EONET_6084",
-			"title": "Tropical Storm Blas",
+			"title": "Hurricane Blas",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6084",
 			"closed": null,
@@ -49,6 +49,38 @@
 					"date": "2022-06-14T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -102.1, 13.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-14T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -102, 14.5 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-15T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -102.1, 14.9 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-15T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -102.4, 15.3 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-15T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -102.7, 15 ]
 							}
 
 						

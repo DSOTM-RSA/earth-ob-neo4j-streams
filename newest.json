@@ -145,6 +145,109 @@
 					"date": "2022-06-17T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -108.4, 17.6 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-17T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -109.5, 17.3 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-18T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -109.9, 17.5 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -110.5, 17.7 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-18T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -110.8, 17.9 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6089",
+			"title": "Tropical Storm Celia",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6089",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep0322.tcw"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2022/CELIA.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-17T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -89.4, 11.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-17T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -89.4, 11.7 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-18T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -89.1, 11.9 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -89.3, 12.4 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-18T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -89.8, 12.8 ]
 							}
 
 						

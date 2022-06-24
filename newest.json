@@ -233,6 +233,72 @@
 					"date": "2022-06-23T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -105.6, 15.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-23T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -106.4, 16.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-24T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -107.2, 16.6 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-24T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -108.1, 16.9 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-24T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -108.8, 17 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6093",
+			"title": "Dempsey Fire",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6093",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "InciWeb",
+					"url": "http://inciweb.nwcg.gov/incident/8174/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2022-06-23T14:30:00Z",
+					"type": "Point", 
+							"coordinates": [ -98.251000000000005, 32.801000000000002 ]
 							}
 
 						

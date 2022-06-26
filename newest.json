@@ -289,6 +289,46 @@
 					"date": "2022-06-25T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -109.8, 17.9 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-25T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -110.4, 18.3 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-25T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -111.2, 18.5 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-26T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -112.2, 18.9 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-26T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -112.7, 19.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-06-26T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -113.3, 19 ]
 							}
 
 						

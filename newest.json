@@ -4,118 +4,8 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_6100",
-			"title": "Tropical Cyclone Bonnie",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6100",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000890&amp;eventtype=TC"
-				},
-
-							{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2022/BONNIE.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-07-01T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -77.7, 11.8 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-07-01T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -79.2, 11.5 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-07-01T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -81, 11.2 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6099",
-			"title": "Tropical Storm Aere",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6099",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000892&amp;eventtype=TC"
-				},
-
-							{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp0522.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-07-01T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 131.2, 20.4 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-07-01T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 131.2, 21 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-07-01T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 131.2, 22.2 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_6096",
-			"title": "Tropical Storm Chaba",
+			"title": "Typhoon Chaba",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6096",
 			"closed": null,
@@ -194,6 +84,180 @@
 					"date": "2022-07-01T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 112.9, 19.6 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-01T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 112.1, 20.1 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-02T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 111.6, 20.6 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-02T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 111.2, 21.2 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-02T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 110.8, 22 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6099",
+			"title": "Tropical Storm Aere",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6099",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000892&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp0522.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-01T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 131.2, 20.4 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-01T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 131.2, 21 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-01T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 131.2, 22.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-01T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.8, 23 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-02T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.3, 24.5 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-02T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 129.5, 25.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-02T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 128.3, 26.8 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6100",
+			"title": "Tropical Cyclone Bonnie",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6100",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000890&amp;eventtype=TC"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2022/BONNIE.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-01T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -77.7, 11.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-01T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -79.2, 11.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-01T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -81, 11.2 ]
 							}
 
 						

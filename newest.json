@@ -313,6 +313,48 @@
 					"date": "2022-07-09T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -126.7, 19.4 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-09T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -128.5, 19.5 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6110",
+			"title": "Blanket Fire",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6110",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "InciWeb",
+					"url": "http://inciweb.nwcg.gov/incident/8211/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2022-07-09T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -98.293999999999997, 27.048999999999999 ]
 							}
 
 						

@@ -257,6 +257,22 @@
 					"date": "2022-07-16T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -152.3, 17.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-16T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -154.5, 17.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-17T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -156.5, 17.7 ]
 							}
 
 						

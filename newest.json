@@ -116,6 +116,72 @@
 					"date": "2022-07-18T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -110.5, 17.8 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-18T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -111.9, 18.1 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-19T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -113, 18.2 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-19T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -114.2, 18.4 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-19T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -115.1, 18.8 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6123",
+			"title": "Chalk Mountain Fire",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6123",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "InciWeb",
+					"url": "http://inciweb.nwcg.gov/incident/8255/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2022-07-18T15:15:00Z",
+					"type": "Point", 
+							"coordinates": [ -97.867999999999995, 32.188000000000002 ]
 							}
 
 						

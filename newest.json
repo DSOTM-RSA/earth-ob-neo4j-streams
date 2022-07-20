@@ -148,6 +148,38 @@
 					"date": "2022-07-19T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -115.1, 18.8 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-19T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -116.3, 19.3 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-20T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -117.4, 20 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-20T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -118.8, 20.4 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-20T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -120.1, 20.9 ]
 							}
 
 						
@@ -155,10 +187,10 @@
 		},
 
 			{
-			"id": "EONET_6123",
-			"title": "Chalk Mountain Fire",
+			"id": "EONET_6125",
+			"title": "West Bend Fire",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6123",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6125",
 			"closed": null,
 				"categories": [
 					{
@@ -170,7 +202,7 @@
     			"sources": [
 					{
 					"id": "InciWeb",
-					"url": "http://inciweb.nwcg.gov/incident/8255/"
+					"url": "http://inciweb.nwcg.gov/incident/8259/"
 				}
 
 						
@@ -179,9 +211,9 @@
 					{
 							"magnitudeValue": null,
 					"magnitudeUnit": null,
-					"date": "2022-07-18T15:15:00Z",
+					"date": "2022-07-19T13:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -97.867999999999995, 32.188000000000002 ]
+							"coordinates": [ -98.439999999999998, 33.843000000000004 ]
 							}
 
 						

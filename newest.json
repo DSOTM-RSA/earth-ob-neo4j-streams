@@ -180,40 +180,38 @@
 					"date": "2022-07-20T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -120.1, 20.9 ]
-							}
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_6125",
-			"title": "West Bend Fire",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6125",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "InciWeb",
-					"url": "http://inciweb.nwcg.gov/incident/8259/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2022-07-19T13:00:00Z",
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-20T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -98.439999999999998, 33.843000000000004 ]
+							"coordinates": [ -121.6, 21.4 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-21T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -122.7, 21.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-21T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -123.8, 22.1 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-21T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -125, 22.6 ]
 							}
 
 						

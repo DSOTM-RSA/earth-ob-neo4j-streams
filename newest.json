@@ -3,5 +3,161 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6136",
+			"title": "Tropical Storm Frank",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6136",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep0722.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-26T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -102, 11.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-26T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -103, 11.6 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-27T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -103.8, 11.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-27T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -104.6, 11.9 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-27T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -105.4, 12.3 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-27T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -106.3, 12.4 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-28T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -107.5, 12.6 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-28T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -108.5, 12.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-28T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -109.6, 13 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6137",
+			"title": "Tropical Storm Georgette",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6137",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep0822.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-27T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -115.3, 16.4 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-28T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -116.2, 16.3 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-28T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -117.1, 15.9 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-28T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -118.3, 15.9 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

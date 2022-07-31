@@ -159,6 +159,38 @@
 					"date": "2022-07-30T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -115.8, 16.2 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-30T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -116.6, 16.8 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-31T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -117.3, 17.6 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-31T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -118.2, 18.3 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-31T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -119, 18.9 ]
 							}
 
 						
@@ -281,6 +313,152 @@
 					"date": "2022-07-30T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -126.4, 14.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-30T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -127.3, 13.7 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-31T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -128.2, 13.5 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-31T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -129, 13.4 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-31T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -129.5, 13.1 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6138",
+			"title": "Tropical Cyclone 01S",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6138",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0123.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-28T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 95.1, -10.5 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-29T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 95.1, -11.1 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-29T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 94.7, -11.7 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-29T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 94.4, -12.2 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-29T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 94.2, -12.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-30T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 93.8, -13.3 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-30T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 93.2, -13.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-30T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 92.8, -13.9 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-30T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 92.4, -14 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-31T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 92.4, -14 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-07-31T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 91.7, -13.7 ]
 							}
 
 						

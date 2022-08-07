@@ -3,39 +3,5 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-		{
-			"id": "EONET_6156",
-			"title": "Ranger Creek Fire",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6156",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "InciWeb",
-					"url": "http://inciweb.nwcg.gov/incident/8311/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2022-08-05T16:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -99.379000000000005, 33.122999999999998 ]
-							}
-
-						
-			]
-		}
-
-		]
+	]
 }

@@ -3,5 +3,68 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6159",
+			"title": "Tropical Storm Howard",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6159",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000900&amp;episodeid=8&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep0922.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-07T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -110.4, 17.2 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-08T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -111.3, 18 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-08T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -112.2, 18.8 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-08T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -113.1, 19.8 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

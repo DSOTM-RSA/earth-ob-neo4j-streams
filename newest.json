@@ -4,6 +4,40 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_6165",
+			"title": "Mohr Fire",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6165",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "InciWeb",
+					"url": "https://inciweb.nwcg.gov/incident/8322/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2022-08-11T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -119.919, 47.533 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_6159",
 			"title": "Hurricane Howard",
             "description": null,
@@ -124,6 +158,22 @@
 					"date": "2022-08-10T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -119.8, 23.6 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-10T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -120.9, 23.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-11T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -121.9, 24 ]
 							}
 
 						

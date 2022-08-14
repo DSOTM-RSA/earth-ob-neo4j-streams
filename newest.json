@@ -5,7 +5,7 @@
 	"events": [
 		{
 			"id": "EONET_6166",
-			"title": "Tropical Storm 09W",
+			"title": "Tropical Storm Meari",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6166",
 			"closed": null,
@@ -18,6 +18,11 @@
 	    				],
     			"sources": [
 					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000901&amp;episodeid=11&amp;eventtype=TC"
+				},
+
+							{
 					"id": "JTWC",
 					"url": "https://www.metoc.navy.mil/jtwc/products/wp0922.tcw"
 				}
@@ -95,6 +100,14 @@
 					"date": "2022-08-13T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 140.1, 35.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-13T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 142.6, 37.2 ]
 							}
 
 						

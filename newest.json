@@ -3,5 +3,115 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6188",
+			"title": "Tropical Storm Ma-on",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6188",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000905&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp1022.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-22T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 124.6, 16.2 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-22T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.7, 16.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-22T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.2, 16.2 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6189",
+			"title": "Tropical Storm Tokage",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6189",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000906&amp;episodeid=2&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp1122.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-22T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 151.4, 24 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-22T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 151.7, 24.9 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-22T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 151.7, 26.1 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

@@ -18,6 +18,11 @@
 	    				],
     			"sources": [
 					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000907&amp;eventtype=TC"
+				},
+
+							{
 					"id": "JTWC",
 					"url": "https://www.metoc.navy.mil/jtwc/products/wp1222.tcw"
 				}
@@ -135,6 +140,38 @@
 					"date": "2022-08-31T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 127.7, 24.8 ]
+							},
+
+							{
+							"magnitudeValue": 125.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-08-31T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 126.5, 24 ]
+							},
+
+							{
+							"magnitudeValue": 140.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-01T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.7, 22.5 ]
+							},
+
+							{
+							"magnitudeValue": 130.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-01T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.5, 21.8 ]
+							},
+
+							{
+							"magnitudeValue": 120.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-01T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.6, 21.3 ]
 							}
 
 						

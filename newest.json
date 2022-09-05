@@ -268,114 +268,38 @@
 					"date": "2022-09-04T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 124.7, 27.8 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6203",
-			"title": "Tropical Storm Javier",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6203",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventid=1000910&amp;episodeid=3&amp;eventtype=TC"
-				},
-
-							{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/ep1122.tcw"
-				},
-
-							{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2022/JAVIER.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-02T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -111.4, 19.5 ]
 							},
 
 							{
-							"magnitudeValue": 40.00,
+							"magnitudeValue": 110.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-02T12:00:00Z",
+					"date": "2022-09-04T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -111.9, 20.2 ]
+							"coordinates": [ 124.7, 28.6 ]
 							},
 
 							{
-							"magnitudeValue": 40.00,
+							"magnitudeValue": 110.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-02T18:00:00Z",
+					"date": "2022-09-05T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -112.5, 21.3 ]
+							"coordinates": [ 124.9, 29.8 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 105.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-03T00:00:00Z",
+					"date": "2022-09-05T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -112.8, 22.6 ]
+							"coordinates": [ 125.5, 31.1 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 100.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-03T06:00:00Z",
+					"date": "2022-09-05T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -113.6, 23.5 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-03T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -114.3, 24.7 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-03T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -115.5, 25.7 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-04T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -116.6, 26.4 ]
-							},
-
-							{
-							"magnitudeValue": 30.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-04T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -117.9, 27 ]
+							"coordinates": [ 126.5, 32.5 ]
 							}
 
 						

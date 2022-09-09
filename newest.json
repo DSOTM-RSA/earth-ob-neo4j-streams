@@ -156,6 +156,38 @@
 					"date": "2022-09-08T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -113.5, 25.2 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-08T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -114.1, 26.6 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-09T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -114.6, 27.9 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-09T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -115.5, 29 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-09T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -116.3, 29.9 ]
 							}
 
 						
@@ -243,40 +275,38 @@
 					"date": "2022-09-08T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 130.9, 17.3 ]
-							}
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_6222",
-			"title": "Barnes  Fire",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6222",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "InciWeb",
-					"url": "http://inciweb.nwcg.gov/incident/8403/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2022-09-07T16:00:00Z",
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-08T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -120.3, 41.890000000000001 ]
+							"coordinates": [ 130, 17.4 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-09T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 129.5, 18.1 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-09T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 128.7, 19.2 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-09T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 128, 19.9 ]
 							}
 
 						
@@ -747,6 +777,38 @@
 					"date": "2022-09-08T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -65.4, 28.2 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-08T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -65, 29 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-08T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -64.4, 30.3 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-09T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -63.7, 31.3 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-09T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -62.4, 32.7 ]
 							}
 
 						

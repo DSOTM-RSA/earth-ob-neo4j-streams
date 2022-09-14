@@ -244,6 +244,38 @@
 					"date": "2022-09-13T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 123.9, 26.8 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-13T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.6, 27.3 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-14T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.3, 28 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-14T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 122.9, 28.7 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-14T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 122.4, 29.9 ]
 							}
 
 						
@@ -252,7 +284,7 @@
 
 			{
 			"id": "EONET_6243",
-			"title": "Tropical Storm Merbok",
+			"title": "Typhoon Merbok",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6243",
 			"closed": null,
@@ -347,6 +379,101 @@
 					"date": "2022-09-13T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 162.8, 25.6 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-13T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 162.2, 27 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-14T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 162.2, 28.3 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-14T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 162.2, 29.8 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-14T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 161.9, 31.9 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6248",
+			"title": "Tropical Storm Nanmadol",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6248",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000915&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp1622.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-13T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 140.2, 22.5 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-14T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 140.4, 22.7 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-14T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 140.6, 22.9 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-14T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 140.5, 22.9 ]
 							}
 
 						

@@ -4,10 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_6250",
-			"title": "Tropical Storm Fiona",
+			"id": "EONET_6254",
+			"title": "Tropical Storm Lester",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6250",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6254",
 			"closed": null,
 				"categories": [
 					{
@@ -19,31 +19,36 @@
     			"sources": [
 					{
 					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000916&amp;eventtype=TC"
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000917&amp;episodeid=3&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep1322.tcw"
 				},
 
 							{
 					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2022/FIONA.shtml"
+					"url": "https://www.nhc.noaa.gov/archive/2022/LESTER.shtml"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-15T03:00:00Z",
+					"date": "2022-09-16T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -52, 16.7 ]
+							"coordinates": [ -95.6, 13 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-15T09:00:00Z",
+					"date": "2022-09-16T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -53, 16.6 ]
+							"coordinates": [ -96.1, 13.4 ]
 							}
 
 						
@@ -65,6 +70,11 @@
 	    				],
     			"sources": [
 					{
+					"id": "EO",
+					"url": "https://earthobservatory.nasa.gov/images/150342/typhoon-muifa-lands-near-shanghai"
+				},
+
+							{
 					"id": "GDACS",
 					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000913&amp;eventtype=TC"
 				},
@@ -355,157 +365,30 @@
 					"date": "2022-09-15T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 120.3, 35.2 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6243",
-			"title": "Typhoon Merbok",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6243",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventid=1000914&amp;episodeid=5&amp;eventtype=TC"
-				},
-
-							{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp1522.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-11T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 160.4, 21.1 ]
 							},
 
 							{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-11T18:00:00Z",
+					"date": "2022-09-15T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 161, 21.5 ]
+							"coordinates": [ 120.6, 36.5 ]
 							},
 
 							{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-12T00:00:00Z",
+					"date": "2022-09-16T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 161.4, 21.4 ]
+							"coordinates": [ 121.3, 37.8 ]
 							},
 
 							{
-							"magnitudeValue": 35.00,
+							"magnitudeValue": 25.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-12T06:00:00Z",
+					"date": "2022-09-16T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 161.9, 21.9 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-12T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 162.5, 22.6 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-12T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 163.1, 23.3 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-13T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 163.3, 23.9 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-13T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 163.1, 24.7 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-13T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 162.8, 25.6 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-13T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 162.2, 27 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-14T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 162.2, 28.3 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-14T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 162.2, 29.8 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-14T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 161.9, 31.9 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-14T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 162.4, 33.9 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-15T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 164.5, 36.7 ]
+							"coordinates": [ 122.1, 39.3 ]
 							}
 
 						
@@ -514,7 +397,7 @@
 
 			{
 			"id": "EONET_6248",
-			"title": "Typhoon Nanmadol",
+			"title": "Super Typhoon Nanmadol",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6248",
 			"closed": null,
@@ -601,6 +484,125 @@
 					"date": "2022-09-15T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 137.3, 23.4 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-15T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 136.4, 23.4 ]
+							},
+
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-16T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 135.8, 23.8 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-16T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 135.3, 24.2 ]
+							},
+
+							{
+							"magnitudeValue": 130.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-16T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 134.7, 24.8 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6250",
+			"title": "Tropical Storm Fiona",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6250",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000916&amp;eventtype=TC"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2022/FIONA.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-15T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -52, 16.7 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-15T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -53, 16.6 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-15T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -54.3, 16.6 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-15T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -55.4, 16.3 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-16T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -56.9, 16 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-16T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -58.1, 15.7 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-16T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -59.4, 16 ]
 							}
 
 						

@@ -156,6 +156,38 @@
 					"date": "2022-09-17T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 132, 27.6 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-17T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 131.4, 28.5 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-18T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 131, 29.7 ]
+							},
+
+							{
+							"magnitudeValue": 95.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.7, 30.7 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-18T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.6, 31.9 ]
 							}
 
 						
@@ -240,93 +272,14 @@
 					"date": "2022-09-17T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -98.7, 15.9 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6250",
-			"title": "Tropical Storm Fiona",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6250",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000916&amp;eventtype=TC"
-				},
-
-							{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2022/FIONA.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-15T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -52, 16.7 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 25.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-15T09:00:00Z",
+					"date": "2022-09-17T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -53, 16.6 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-15T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -54.3, 16.6 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-15T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -55.4, 16.3 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-16T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -56.9, 16 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-16T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -58.1, 15.7 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-16T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -59.4, 16 ]
+							"coordinates": [ -98.5, 16.5 ]
 							}
 
 						

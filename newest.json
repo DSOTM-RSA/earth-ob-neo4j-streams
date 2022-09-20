@@ -220,6 +220,14 @@
 					"date": "2022-09-19T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 134.3, 36.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-19T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 137.1, 37.4 ]
 							}
 
 						
@@ -323,6 +331,38 @@
 					"date": "2022-09-19T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -108.5, 20.4 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-19T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -109.5, 20.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-20T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -110.5, 20.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-20T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -111, 21.1 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-20T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -111.7, 21.1 ]
 							}
 
 						
@@ -498,6 +538,38 @@
 					"date": "2022-09-19T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -68.6, 18.5 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-19T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -69.2, 19.1 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-19T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -69.8, 20.1 ]
+							},
+
+							{
+							"magnitudeValue": 95.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-20T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -70.3, 20.6 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-20T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -70.9, 21.3 ]
 							}
 
 						

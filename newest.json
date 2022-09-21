@@ -4,10 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_6248",
-			"title": "Super Typhoon Nanmadol",
+			"id": "EONET_6258",
+			"title": "Tropical Storm Gaston",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6248",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6258",
 			"closed": null,
 				"categories": [
 					{
@@ -19,12 +19,12 @@
     			"sources": [
 					{
 					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000915&amp;eventtype=TC"
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000919&amp;episodeid=4&amp;eventtype=TC"
 				},
 
 							{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp1622.tcw"
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2022/GASTON.shtml"
 				}
 
 						
@@ -33,201 +33,25 @@
 					{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-13T18:00:00Z",
+					"date": "2022-09-20T21:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 140.2, 22.5 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-14T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 140.4, 22.7 ]
+							"coordinates": [ -44.4, 34.7 ]
 							},
 
 							{
 							"magnitudeValue": 45.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-14T06:00:00Z",
+					"date": "2022-09-21T03:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 140.6, 22.9 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-14T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 140.5, 22.9 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-14T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 139.8, 23.1 ]
+							"coordinates": [ -43.6, 36.2 ]
 							},
 
 							{
 							"magnitudeValue": 55.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-15T00:00:00Z",
+					"date": "2022-09-21T09:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 138.8, 23.3 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-15T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 137.9, 23.5 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-15T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 137.3, 23.4 ]
-							},
-
-							{
-							"magnitudeValue": 85.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-15T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 136.4, 23.4 ]
-							},
-
-							{
-							"magnitudeValue": 110.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-16T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 135.8, 23.8 ]
-							},
-
-							{
-							"magnitudeValue": 115.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-16T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 135.3, 24.2 ]
-							},
-
-							{
-							"magnitudeValue": 130.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-16T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 134.7, 24.8 ]
-							},
-
-							{
-							"magnitudeValue": 135.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-16T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 133.8, 25.5 ]
-							},
-
-							{
-							"magnitudeValue": 130.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-17T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 133.1, 26 ]
-							},
-
-							{
-							"magnitudeValue": 130.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-17T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 132.4, 26.7 ]
-							},
-
-							{
-							"magnitudeValue": 125.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-17T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 132, 27.6 ]
-							},
-
-							{
-							"magnitudeValue": 115.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-17T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 131.4, 28.5 ]
-							},
-
-							{
-							"magnitudeValue": 105.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-18T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 131, 29.7 ]
-							},
-
-							{
-							"magnitudeValue": 95.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-18T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 130.7, 30.7 ]
-							},
-
-							{
-							"magnitudeValue": 80.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-18T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 130.6, 31.9 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-18T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 130.5, 33.1 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-19T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 131.1, 34.1 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-19T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 132.4, 34.8 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-19T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 134.3, 36.1 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-19T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 137.1, 37.4 ]
+							"coordinates": [ -42.6, 37.5 ]
 							}
 
 						
@@ -363,6 +187,14 @@
 					"date": "2022-09-20T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -111.7, 21.1 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-20T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -112.2, 21.2 ]
 							}
 
 						
@@ -384,6 +216,11 @@
 	    				],
     			"sources": [
 					{
+					"id": "EO",
+					"url": "https://earthobservatory.nasa.gov/images/150363/potent-storms-hit-puerto-rico-japan"
+				},
+
+							{
 					"id": "GDACS",
 					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000916&amp;eventtype=TC"
 				},
@@ -570,6 +407,38 @@
 					"date": "2022-09-20T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -70.9, 21.3 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-20T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -71.4, 22 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-20T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -71.8, 22.6 ]
+							},
+
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-21T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -71.8, 23.2 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-21T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -71.8, 23.9 ]
 							}
 
 						

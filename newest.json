@@ -4,10 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_6258",
-			"title": "Tropical Storm Gaston",
+			"id": "EONET_6259",
+			"title": "Tropical Storm 18W",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6258",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6259",
 			"closed": null,
 				"categories": [
 					{
@@ -19,12 +19,12 @@
     			"sources": [
 					{
 					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventid=1000919&amp;episodeid=4&amp;eventtype=TC"
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000922&amp;episodeid=2&amp;eventtype=TC"
 				},
 
 							{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2022/GASTON.shtml"
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp1822.tcw"
 				}
 
 						
@@ -33,25 +33,17 @@
 					{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-20T21:00:00Z",
+					"date": "2022-09-22T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -44.4, 34.7 ]
+							"coordinates": [ 134.3, 17.9 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-21T03:00:00Z",
+					"date": "2022-09-22T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -43.6, 36.2 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-21T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -42.6, 37.5 ]
+							"coordinates": [ 134.5, 18 ]
 							}
 
 						
@@ -59,10 +51,10 @@
 		},
 
 			{
-			"id": "EONET_6256",
-			"title": "Tropical Storm Madeline",
+			"id": "EONET_6260",
+			"title": "Tropical Storm Newton",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6256",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6260",
 			"closed": null,
 				"categories": [
 					{
@@ -74,127 +66,39 @@
     			"sources": [
 					{
 					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventid=1000918&amp;episodeid=5&amp;eventtype=TC"
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000921&amp;episodeid=3&amp;eventtype=TC"
 				},
 
 							{
 					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/ep1422.tcw"
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep1522.tcw"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-17T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -106.5, 15.5 ]
-							},
-
-							{
 							"magnitudeValue": 40.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-17T18:00:00Z",
+					"date": "2022-09-22T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -106.8, 15.8 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-18T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -106.7, 16.5 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-18T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -106.6, 17.3 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-18T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -106.8, 18.1 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-18T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -107.1, 18.5 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-19T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -107.6, 19 ]
+							"coordinates": [ -106.6, 17.5 ]
 							},
 
 							{
 							"magnitudeValue": 50.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-19T06:00:00Z",
+					"date": "2022-09-22T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -108, 19.9 ]
+							"coordinates": [ -107.6, 17.6 ]
 							},
 
 							{
 							"magnitudeValue": 55.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-19T12:00:00Z",
+					"date": "2022-09-22T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -108.5, 20.4 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-19T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -109.5, 20.8 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-20T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -110.5, 20.9 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-20T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -111, 21.1 ]
-							},
-
-							{
-							"magnitudeValue": 30.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-20T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -111.7, 21.1 ]
-							},
-
-							{
-							"magnitudeValue": 30.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-20T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -112.2, 21.2 ]
+							"coordinates": [ -108.1, 17.8 ]
 							}
 
 						
@@ -439,6 +343,125 @@
 					"date": "2022-09-21T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -71.8, 23.9 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-21T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -71.7, 24.6 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-21T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -71.5, 25.6 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-22T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -71.2, 26.6 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-22T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -70.6, 27.4 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6258",
+			"title": "Tropical Storm Gaston",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6258",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000919&amp;episodeid=4&amp;eventtype=TC"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2022/GASTON.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-20T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -44.4, 34.7 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-21T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -43.6, 36.2 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-21T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -42.6, 37.5 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-21T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -41.3, 38.3 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-21T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -40, 39 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-22T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -38, 39.6 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-22T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -35.4, 40.3 ]
 							}
 
 						

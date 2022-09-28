@@ -204,6 +204,22 @@
 					"date": "2022-09-27T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 110.3, 15.8 ]
+							},
+
+							{
+							"magnitudeValue": 95.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-27T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 109, 16 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-28T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 107.8, 16 ]
 							}
 
 						
@@ -212,7 +228,7 @@
 
 			{
 			"id": "EONET_6263",
-			"title": "Tropical Storm Kulap",
+			"title": "Typhoon Kulap",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6263",
 			"closed": null,
@@ -291,6 +307,38 @@
 					"date": "2022-09-27T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 142.6, 29.8 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-27T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 144.2, 31 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-28T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 145.3, 32.1 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-28T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 147.7, 33.2 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-28T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 150.5, 34.7 ]
 							}
 
 						
@@ -346,6 +394,22 @@
 					"date": "2022-09-27T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 80.8, -13.4 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-27T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 79.7, -13.4 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-27T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 78.6, -13.3 ]
 							}
 
 						
@@ -489,6 +553,54 @@
 					"date": "2022-09-27T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -83.7, 22.3 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-27T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -83.5, 23 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-27T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -83.2, 24 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-28T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -82.9, 24.9 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-28T04:30:00Z",
+					"type": "Point", 
+							"coordinates": [ -82.9, 25 ]
+							},
+
+							{
+							"magnitudeValue": 120.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-28T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -82.9, 25.6 ]
+							},
+
+							{
+							"magnitudeValue": 135.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-28T11:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -82.8, 25.9 ]
 							}
 
 						

@@ -44,133 +44,38 @@
 					"date": "2022-09-29T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -105.4, 14.9 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6263",
-			"title": "Typhoon Kulap",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6263",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventid=1000925&amp;episodeid=4&amp;eventtype=TC"
-				},
-
-							{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp1922.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2022-09-26T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 143.3, 22.8 ]
 							},
 
 							{
 							"magnitudeValue": 40.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-26T06:00:00Z",
+					"date": "2022-09-29T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 142.5, 23.9 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-26T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 141.8, 25 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-26T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 141.8, 26.8 ]
+							"coordinates": [ -106.2, 15.2 ]
 							},
 
 							{
 							"magnitudeValue": 45.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-27T00:00:00Z",
+					"date": "2022-09-30T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 141.9, 28 ]
+							"coordinates": [ -106.5, 15.4 ]
 							},
 
 							{
 							"magnitudeValue": 50.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-27T06:00:00Z",
+					"date": "2022-09-30T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 141.6, 28.7 ]
+							"coordinates": [ -106.8, 15.7 ]
 							},
 
 							{
 							"magnitudeValue": 50.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-27T12:00:00Z",
+					"date": "2022-09-30T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 142.6, 29.8 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-27T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 144.2, 31 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-28T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 145.3, 32.1 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-28T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 147.7, 33.2 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-28T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 150.5, 34.7 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-28T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 153.1, 36.6 ]
+							"coordinates": [ -107, 15.9 ]
 							}
 
 						
@@ -242,6 +147,38 @@
 					"date": "2022-09-29T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 133.1, 26.7 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-29T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 134.1, 27.2 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-30T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 135.5, 28.2 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-30T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 137.9, 29.2 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-30T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 140.4, 30.2 ]
 							}
 
 						
@@ -263,6 +200,11 @@
 	    				],
     			"sources": [
 					{
+					"id": "EO",
+					"url": "https://earthobservatory.nasa.gov/images/event/150426/hurricane-ian"
+				},
+
+							{
 					"id": "GDACS",
 					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000923&amp;eventtype=TC"
 				},
@@ -473,6 +415,64 @@
 					"date": "2022-09-29T15:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -80.4, 28.7 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-29T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -79.9, 29.3 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-30T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -79.3, 30.2 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-30T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -79.1, 30.8 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6267",
+			"title": "Lazy Fire",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6267",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "InciWeb",
+					"url": "http://inciweb.nwcg.gov/incident/8431/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2022-09-29T14:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -98.480000000000004, 32.795999999999999 ]
 							}
 
 						

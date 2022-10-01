@@ -5,7 +5,7 @@
 	"events": [
 		{
 			"id": "EONET_6265",
-			"title": "Tropical Storm Orlene",
+			"title": "Hurricane Orlene",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6265",
 			"closed": null,
@@ -76,6 +76,38 @@
 					"date": "2022-09-30T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -107, 15.9 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-30T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -107.1, 16.4 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-01T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -107.2, 16.8 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-01T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -107, 17 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-01T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -107.1, 17.3 ]
 							}
 
 						
@@ -179,6 +211,38 @@
 					"date": "2022-09-30T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 140.4, 30.2 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-30T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 142.5, 30.6 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-01T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 144.4, 31.8 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-01T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 146.5, 33.1 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-01T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 148.5, 34.1 ]
 							}
 
 						
@@ -439,40 +503,14 @@
 					"date": "2022-09-30T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -79.1, 30.8 ]
-							}
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_6267",
-			"title": "Lazy Fire",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6267",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "InciWeb",
-					"url": "http://inciweb.nwcg.gov/incident/8431/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2022-09-29T14:00:00Z",
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-09-30T15:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -98.480000000000004, 32.795999999999999 ]
+							"coordinates": [ -79, 32.4 ]
 							}
 
 						

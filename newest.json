@@ -140,157 +140,38 @@
 					"date": "2022-10-02T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -106.9, 19.3 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6266",
-			"title": "Typhoon Roke",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6266",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventid=1000927&amp;episodeid=5&amp;eventtype=TC"
-				},
-
-							{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp2022.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-28T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 131.8, 22.9 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 100.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-28T18:00:00Z",
+					"date": "2022-10-02T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 131.7, 23.9 ]
+							"coordinates": [ -107, 20 ]
 							},
 
 							{
-							"magnitudeValue": 55.00,
+							"magnitudeValue": 95.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-29T00:00:00Z",
+					"date": "2022-10-03T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 131.8, 25 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-29T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 132.2, 25.8 ]
+							"coordinates": [ -106.7, 20.9 ]
 							},
 
 							{
 							"magnitudeValue": 85.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-29T12:00:00Z",
+					"date": "2022-10-03T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 133.1, 26.7 ]
+							"coordinates": [ -106.5, 21.8 ]
 							},
 
 							{
-							"magnitudeValue": 75.00,
+							"magnitudeValue": 80.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-09-29T18:00:00Z",
+					"date": "2022-10-03T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 134.1, 27.2 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-30T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 135.5, 28.2 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-30T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 137.9, 29.2 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-30T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 140.4, 30.2 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-09-30T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 142.5, 30.6 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-01T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 144.4, 31.8 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-01T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 146.5, 33.1 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-01T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 148.5, 34.1 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-01T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 150.2, 35.4 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-02T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 152.5, 36.3 ]
+							"coordinates": [ -106, 22.6 ]
 							}
 
 						

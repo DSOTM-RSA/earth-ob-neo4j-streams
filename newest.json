@@ -4,6 +4,61 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_6270",
+			"title": "Tropical Cyclone 03S",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6270",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000932&amp;episodeid=1&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0323.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-06T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 86.6, -9.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-06T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 86.5, -9.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-06T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 86.5, -9.4 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_6268",
 			"title": "Tropical Storm Paine",
             "description": null,
@@ -97,6 +152,14 @@
 					"date": "2022-10-05T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -114.3, 18.3 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-05T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -114.7, 18.3 ]
 							}
 
 						

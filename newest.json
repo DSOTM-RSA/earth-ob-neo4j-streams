@@ -4,6 +4,45 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_6274",
+			"title": "Tropical Storm Julia",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6274",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000933&amp;eventtype=TC"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2022/JULIA.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-07T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -73.1, 12.7 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_6270",
 			"title": "Tropical Cyclone 03S",
             "description": null,
@@ -52,114 +91,38 @@
 					"date": "2022-10-06T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 86.5, -9.4 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6268",
-			"title": "Tropical Storm Paine",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6268",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventid=1000930&amp;episodeid=3&amp;eventtype=TC"
-				},
-
-							{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/ep1722.tcw"
-				},
-
-							{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2022/PAINE.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-03T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -111.8, 15.7 ]
 							},
 
 							{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-10-04T00:00:00Z",
+					"date": "2022-10-06T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -112.1, 16.3 ]
+							"coordinates": [ 86, -9.4 ]
 							},
 
 							{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-10-04T06:00:00Z",
+					"date": "2022-10-07T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -112.5, 16.7 ]
+							"coordinates": [ 85.4, -9.8 ]
 							},
 
 							{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-10-04T12:00:00Z",
+					"date": "2022-10-07T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -112.9, 17.3 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-04T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -113.2, 17.6 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-05T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -113.8, 17.9 ]
+							"coordinates": [ 85.2, -9.9 ]
 							},
 
 							{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-10-05T06:00:00Z",
+					"date": "2022-10-07T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -114.2, 18.2 ]
-							},
-
-							{
-							"magnitudeValue": 30.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-05T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -114.3, 18.3 ]
-							},
-
-							{
-							"magnitudeValue": 25.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-05T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -114.7, 18.3 ]
+							"coordinates": [ 85.2, -10.3 ]
 							}
 
 						

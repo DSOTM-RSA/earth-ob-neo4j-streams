@@ -52,133 +52,14 @@
 					"date": "2022-10-14T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 157.6, 23.6 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6275",
-			"title": "Tropical Storm Karl",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6275",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventid=1000934&amp;episodeid=5&amp;eventtype=TC"
-				},
-
-							{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2022/KARL.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-11T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -94.4, 19.6 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-12T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -94.9, 20.5 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-12T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -94.9, 21.1 ]
 							},
 
 							{
 							"magnitudeValue": 40.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-10-12T15:00:00Z",
+					"date": "2022-10-14T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -94.7, 21.7 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-12T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -94.5, 22 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-12T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -94.4, 22.2 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-13T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -94.3, 22.4 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-13T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -94.4, 22.4 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-13T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -93.9, 21.7 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-13T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -93.5, 20.9 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-14T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -92.8, 20.6 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-14T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -92.4, 20.2 ]
+							"coordinates": [ 158.2, 26.7 ]
 							}
 
 						

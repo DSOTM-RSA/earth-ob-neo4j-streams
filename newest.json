@@ -4,6 +4,40 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_6284",
+			"title": "Tropical Storm Haitang",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6284",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp2422.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-18T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 159, 31 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_6279",
 			"title": "Typhoon Nesat",
             "description": null,
@@ -108,6 +142,38 @@
 					"date": "2022-10-17T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 115.4, 19 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-17T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 114.6, 18.7 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-18T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 113.7, 18.2 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 113.1, 18.1 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-18T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 112.7, 17.5 ]
 							}
 
 						

@@ -4,6 +4,45 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_6285",
+			"title": "Tropical Storm Roslyn",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6285",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000940&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep1922.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-20T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.7, 15.1 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_6279",
 			"title": "Typhoon Nesat",
             "description": null,
@@ -172,48 +211,38 @@
 					"date": "2022-10-19T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 109.4, 17.2 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6284",
-			"title": "Tropical Storm Haitang",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6284",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp2422.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-18T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 159, 31 ]
 							},
 
 							{
-							"magnitudeValue": 30.00,
+							"magnitudeValue": 40.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-10-18T18:00:00Z",
+					"date": "2022-10-19T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 161.1, 32.7 ]
+							"coordinates": [ 108.5, 17.4 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-20T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 108.2, 17.6 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-20T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 108.2, 17.7 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-20T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 107.9, 17.5 ]
 							}
 
 						

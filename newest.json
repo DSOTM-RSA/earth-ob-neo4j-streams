@@ -36,213 +36,38 @@
 					"date": "2022-10-20T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -101.7, 15.1 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6279",
-			"title": "Typhoon Nesat",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6279",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000937&amp;eventtype=TC"
-				},
-
-							{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp2322.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-15T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 124.1, 18.6 ]
 							},
 
 							{
 							"magnitudeValue": 40.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-10-15T12:00:00Z",
+					"date": "2022-10-20T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 123.2, 19 ]
+							"coordinates": [ -102.6, 15.4 ]
 							},
 
 							{
-							"magnitudeValue": 50.00,
+							"magnitudeValue": 45.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-10-15T18:00:00Z",
+					"date": "2022-10-21T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 121.8, 19.2 ]
+							"coordinates": [ -103.3, 15.6 ]
 							},
 
 							{
 							"magnitudeValue": 55.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-10-16T00:00:00Z",
+					"date": "2022-10-21T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 120.9, 19.2 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-16T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 119.9, 19.5 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-16T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 118.9, 19.7 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-16T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 117.7, 19.7 ]
-							},
-
-							{
-							"magnitudeValue": 80.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-17T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 116.8, 19.8 ]
-							},
-
-							{
-							"magnitudeValue": 90.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-17T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 116.4, 19.2 ]
-							},
-
-							{
-							"magnitudeValue": 90.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-17T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 115.4, 19 ]
-							},
-
-							{
-							"magnitudeValue": 90.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-17T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 114.6, 18.7 ]
-							},
-
-							{
-							"magnitudeValue": 80.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-18T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 113.7, 18.2 ]
-							},
-
-							{
-							"magnitudeValue": 80.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-18T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 113.1, 18.1 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-18T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 112.7, 17.5 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-18T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 111.9, 17.2 ]
+							"coordinates": [ -103.5, 16 ]
 							},
 
 							{
 							"magnitudeValue": 55.00,
 					"magnitudeUnit": "kts",
-					"date": "2022-10-19T00:00:00Z",
+					"date": "2022-10-21T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 110.9, 17 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-19T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 110.2, 17 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-19T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 109.4, 17.2 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-19T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 108.5, 17.4 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-20T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 108.2, 17.6 ]
-							},
-
-							{
-							"magnitudeValue": 25.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-20T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 108.2, 17.7 ]
-							},
-
-							{
-							"magnitudeValue": 25.00,
-					"magnitudeUnit": "kts",
-					"date": "2022-10-20T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 107.9, 17.5 ]
+							"coordinates": [ -104.1, 16.3 ]
 							}
 
 						

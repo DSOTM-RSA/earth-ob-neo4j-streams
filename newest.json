@@ -132,6 +132,93 @@
 					"date": "2022-10-23T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -105.5, 22.1 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-23T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -104.4, 23.8 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-24T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -102, 25.2 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6287",
+			"title": "Tropical Cyclone Sitrang",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6287",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000941&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/io0522.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-23T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 88.4, 15.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-23T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 88.8, 16.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-24T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 89.2, 18 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-24T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 89.7, 19.5 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-24T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 90.2, 21 ]
 							}
 
 						

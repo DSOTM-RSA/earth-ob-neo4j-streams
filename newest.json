@@ -3,5 +3,76 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6289",
+			"title": "Tropical Storm Nalgae",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6289",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000942&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp2622.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-27T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.1, 12.1 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-27T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 129.1, 12.2 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-28T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 127.9, 12.3 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-28T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 126.7, 12.5 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-10-28T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.2, 13.1 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

@@ -3,5 +3,79 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6308",
+			"title": "Tropical Storm Pakhar",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6308",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp2922.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-11T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.7, 16.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-11T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 126.4, 17.7 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-11T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 127.3, 18.5 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-11T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 128.3, 19.2 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-12T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 129.6, 20.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-12T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130, 20 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

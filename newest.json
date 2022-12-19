@@ -3,5 +3,76 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6311",
+			"title": "Tropical Cyclone Darian",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6311",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000953&amp;episodeid=3&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0523.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 92.7, -11.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-18T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 92.8, -11.9 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-18T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 93, -12 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-19T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 93.2, -12.1 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-19T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 93.4, -12.3 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

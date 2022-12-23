@@ -164,6 +164,93 @@
 					"date": "2022-12-22T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 87.4, -13 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-22T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 86.7, -12.9 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-22T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 85.8, -12.8 ]
+							},
+
+							{
+							"magnitudeValue": 95.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-23T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 85.1, -12.5 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-23T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 84.3, -12.4 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6313",
+			"title": "Tropical Cyclone Ellie",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6313",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000954&amp;episodeid=3&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0623.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-22T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 129.1, -12.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-22T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 129.8, -13.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2022-12-22T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.1, -14.2 ]
 							}
 
 						

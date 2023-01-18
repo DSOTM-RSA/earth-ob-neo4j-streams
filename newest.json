@@ -3,5 +3,97 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6317",
+			"title": "Tropical Cyclone Irene",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6317",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0923.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-01-18T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 162.2, -17.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-01-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 163.3, -18 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6316",
+			"title": "Tropical Cyclone 08S",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6316",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0823.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-01-17T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 58, -14.1 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-01-18T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 56.2, -14.1 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-01-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 54.3, -13.8 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

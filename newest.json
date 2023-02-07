@@ -5,7 +5,7 @@
 	"events": [
 		{
 			"id": "EONET_6321",
-			"title": "Tropical Cyclone 11S",
+			"title": "Tropical Cyclone Freddy",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321",
 			"closed": null,
@@ -31,6 +31,38 @@
 					"date": "2023-02-06T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 118.6, -12.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-06T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 118.5, -12.6 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-06T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 118.5, -13 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-07T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 117.8, -13.9 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-07T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 117, -14.4 ]
 							}
 
 						

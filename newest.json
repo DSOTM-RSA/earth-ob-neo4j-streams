@@ -4,6 +4,53 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_6328",
+			"title": "Tropical Cyclone Judy",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6328",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000965&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh1523.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-27T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 171.1, -12.6 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-27T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 169.8, -12.8 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_6327",
 			"title": "Tropical Cyclone Enala",
             "description": null,
@@ -164,6 +211,38 @@
 					"date": "2023-02-26T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 67.4, -28 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-26T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 66.9, -28.7 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-26T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 66.7, -29 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-27T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 66.8, -29.1 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-27T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 67, -29.2 ]
 							}
 
 						

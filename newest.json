@@ -4,53 +4,6 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_6328",
-			"title": "Tropical Cyclone Judy",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6328",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000965&amp;eventtype=TC"
-				},
-
-							{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/sh1523.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2023-02-27T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 171.1, -12.6 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2023-02-27T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 169.8, -12.8 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_6327",
 			"title": "Tropical Cyclone Enala",
             "description": null,
@@ -243,6 +196,117 @@
 					"date": "2023-02-27T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 67, -29.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-27T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 67.4, -29 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-27T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 67.7, -28.6 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-28T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 67.9, -28.1 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-28T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 68, -27.6 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6328",
+			"title": "Tropical Cyclone Judy",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6328",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000965&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh1523.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-27T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 171.1, -12.6 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-27T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 169.8, -12.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-27T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 169.6, -13.5 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-27T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 169.2, -13.6 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-28T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 168.6, -14 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-02-28T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 168.3, -14.6 ]
 							}
 
 						

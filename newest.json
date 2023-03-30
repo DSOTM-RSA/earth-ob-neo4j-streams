@@ -3,5 +3,87 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6335",
+			"title": "Tropical Cyclone Herman",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6335",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh1723.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-03-29T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 100.4, -13.3 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-03-29T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 101, -13.7 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-03-29T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 102.2, -14 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-03-29T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 103, -14.4 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-03-30T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 104, -14.9 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-03-30T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 104.8, -15.4 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-03-30T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 105.4, -15.7 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

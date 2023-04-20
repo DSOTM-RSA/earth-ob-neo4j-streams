@@ -3,5 +3,60 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6340",
+			"title": "Tropical Storm 01W",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6340",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventid=1000969&amp;episodeid=4&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp0123.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-04-20T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 157.9, 7.9 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-04-20T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 157.1, 9.0 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-04-20T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 156.5, 9.7 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

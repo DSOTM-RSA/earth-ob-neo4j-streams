@@ -3,5 +3,63 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6366",
+			"title": "Tropical Cyclone 02A",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6366",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/io0223.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-05T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 66.2, 11.4 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-06T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 66, 11.6 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-06T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 66, 11.9 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-06T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 66, 12.3 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

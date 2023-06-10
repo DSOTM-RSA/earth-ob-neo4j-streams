@@ -156,6 +156,38 @@
 					"date": "2023-06-09T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 67.3, 15.5 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-09T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 67.4, 16.2 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-10T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 67.4, 16.7 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-10T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 67.4, 17.2 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-10T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 67.4, 17.3 ]
 							}
 
 						
@@ -291,6 +323,109 @@
 					"date": "2023-06-09T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 130, 18.3 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-09T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 129.9, 18.5 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-10T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 129.9, 19 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-10T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.1, 20 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-10T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.5, 20.7 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6368",
+			"title": "Tropical Cyclone 03B",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6368",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000976&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/io0323.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-09T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 91.3, 19.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-09T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 91.5, 19.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-09T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 91.7, 19.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-09T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 91.8, 20.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-10T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 91.9, 20.9 ]
 							}
 
 						

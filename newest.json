@@ -3,5 +3,55 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6371",
+			"title": "Tropical Storm Bret",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6371",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2023/BRET.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-19T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -42.2, 11.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-20T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -43.5, 11.4 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-20T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -44.7, 11.7 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

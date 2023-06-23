@@ -4,6 +4,48 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_6373",
+			"title": "Tropical Storm Cindy",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6373",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2023/CINDY.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-23T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -45.2, 11.7 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-23T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -46.9, 12.1 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_6371",
 			"title": "Tropical Storm Bret",
             "description": null,
@@ -111,6 +153,38 @@
 					"date": "2023-06-22T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -56.6, 13.7 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-22T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -57.7, 13.8 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-22T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -59.6, 13.4 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-23T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -61.1, 13.3 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-06-23T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -62.9, 13.4 ]
 							}
 
 						

@@ -4,6 +4,40 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_6380",
+			"title": "Subtropical Storm Don",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6380",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2023/DON.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-14T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 46.8, 32.9 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_6378",
 			"title": "Hurricane Calvin",
             "description": null,
@@ -76,6 +110,38 @@
 					"date": "2023-07-13T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -116.4, 12.6 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-13T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -118, 12.7 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-14T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -119.8, 13.1 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-14T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -121.2, 13.1 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-14T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -122.5, 13.4 ]
 							}
 
 						

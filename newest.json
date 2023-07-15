@@ -4,40 +4,6 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_6380",
-			"title": "Subtropical Storm Don",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6380",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2023/DON.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2023-07-14T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 46.8, 32.9 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_6378",
 			"title": "Hurricane Calvin",
             "description": null,
@@ -142,6 +108,88 @@
 					"date": "2023-07-14T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -122.5, 13.4 ]
+							},
+
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-14T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -123.9, 13.7 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-15T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -125.3, 14 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-15T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -126.8, 14.3 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-15T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -128.2, 14.5 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6380",
+			"title": "Subtropical Storm Don",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6380",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2023/DON.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-14T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -46.8, 32.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-14T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -47.3, 33.7 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-14T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -48.0, 34.1 ]
 							}
 
 						

@@ -140,56 +140,38 @@
 					"date": "2023-07-15T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -128.2, 14.5 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6380",
-			"title": "Subtropical Storm Don",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6380",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2023/DON.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2023-07-14T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -46.8, 32.9 ]
 							},
 
 							{
-							"magnitudeValue": 40.00,
+							"magnitudeValue": 85.00,
 					"magnitudeUnit": "kts",
-					"date": "2023-07-14T15:00:00Z",
+					"date": "2023-07-15T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -47.3, 33.7 ]
+							"coordinates": [ -129.7, 14.8 ]
 							},
 
 							{
-							"magnitudeValue": 40.00,
+							"magnitudeValue": 85.00,
 					"magnitudeUnit": "kts",
-					"date": "2023-07-14T21:00:00Z",
+					"date": "2023-07-16T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -48.0, 34.1 ]
+							"coordinates": [ -131.2, 15.2 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-16T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -132.6, 15.5 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-16T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -134, 15.8 ]
 							}
 
 						

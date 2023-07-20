@@ -5,7 +5,7 @@
 	"events": [
 		{
 			"id": "EONET_6378",
-			"title": "Hurricane Calvin",
+			"title": "Cyclone Calvin",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6378",
 			"closed": null,
@@ -268,6 +268,14 @@
 					"date": "2023-07-19T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -155.9, 17.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-19T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -157.7, 17.9 ]
 							}
 
 						
@@ -462,6 +470,38 @@
 					"date": "2023-07-19T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -39.3, 34.0 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-19T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -39.6, 33.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-19T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -40.3, 33.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-20T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -40.9, 33.9 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-20T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -41.6, 34.1 ]
 							}
 
 						

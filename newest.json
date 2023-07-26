@@ -148,6 +148,38 @@
 					"date": "2023-07-25T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 122.7, 18.9 ]
+							},
+
+							{
+							"magnitudeValue": 120.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-25T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 121.6, 19 ]
+							},
+
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-26T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 121.4, 18.9 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-26T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 121, 19.3 ]
+							},
+
+							{
+							"magnitudeValue": 95.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-07-26T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 120.6, 19.6 ]
 							}
 
 						

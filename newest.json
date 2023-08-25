@@ -4,8 +4,58 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_6410",
+			"title": "Tropical Storm Damrey",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6410",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp0823.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-08-25T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 154.5, 18.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-08-25T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 155.6, 20.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-08-25T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 155.8, 21.5 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_6409",
-			"title": "Tropical Storm Saola",
+			"title": "Typhoon Saola",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6409",
 			"closed": null,
@@ -52,6 +102,38 @@
 					"date": "2023-08-24T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 124.2, 20.4 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-08-24T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.9, 20.1 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-08-25T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 124.1, 19.8 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-08-25T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 124, 19.7 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-08-25T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.8, 19.4 ]
 							}
 
 						

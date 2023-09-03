@@ -340,6 +340,38 @@
 					"date": "2023-09-02T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 110.5, 21.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-02T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 109.8, 21.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-03T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 109.4, 21.4 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-03T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 109.3, 21 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-03T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 109, 20.7 ]
 							}
 
 						
@@ -531,6 +563,38 @@
 					"date": "2023-09-02T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 124.4, 22.7 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-02T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.2, 22.5 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-03T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 122.5, 22.6 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-03T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 121.5, 22.9 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-03T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 120.2, 22.8 ]
 							}
 
 						
@@ -682,6 +746,22 @@
 					"date": "2023-09-02T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 144.8, 28.6 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-02T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 142.8, 29.3 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-03T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.9, 29.6 ]
 							}
 
 						

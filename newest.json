@@ -4,61 +4,6 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_6421",
-			"title": "Tropical Storm Margot",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6421",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "http://www.gdacs.org/report.aspx?eventid=1001009&amp;episodeid=4&amp;eventtype=TC"
-				},
-
-							{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2023/MARGOT.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2023-09-07T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -28.3, 16.8 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2023-09-08T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -29.3, 16.8 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2023-09-08T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -30.8, 17.4 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_6416",
 			"title": "Hurricane Jova",
             "description": null,
@@ -200,6 +145,38 @@
 					"date": "2023-09-08T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -120.6, 19.5 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-08T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -121.9, 20.1 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-09T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -123.2, 20.8 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-09T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -124.2, 21.2 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-09T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -125.2, 22 ]
 							}
 
 						
@@ -319,6 +296,14 @@
 					"date": "2023-09-08T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 138, 33.6 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-08T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 138.3, 34.5 ]
 							}
 
 						
@@ -438,6 +423,93 @@
 					"date": "2023-09-08T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -53.5, 17.8 ]
+							},
+
+							{
+							"magnitudeValue": 135.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-08T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -54.5, 18.2 ]
+							},
+
+							{
+							"magnitudeValue": 130.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-08T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -55.5, 18.9 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6421",
+			"title": "Tropical Storm Margot",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6421",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "http://www.gdacs.org/report.aspx?eventid=1001009&amp;episodeid=4&amp;eventtype=TC"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2023/MARGOT.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-07T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -28.3, 16.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-08T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -29.3, 16.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-08T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -30.8, 17.4 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-08T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -32.5, 18 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-08T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -34.3, 18.8 ]
 							}
 
 						

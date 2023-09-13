@@ -18,6 +18,11 @@
 	    				],
     			"sources": [
 					{
+					"id": "EO",
+					"url": "https://earthobservatory.nasa.gov/images/151822/hurricane-lee-traverses-the-warm-atlantic"
+				},
+
+							{
 					"id": "GDACS",
 					"url": "http://www.gdacs.org/report.aspx?eventid=1001008&amp;episodeid=4&amp;eventtype=TC"
 				},
@@ -252,6 +257,30 @@
 					"date": "2023-09-12T15:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -65.9, 24.3 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-12T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -66.4, 24.7 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-13T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -66.7, 25.3 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-13T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -67.1, 25.7 ]
 							}
 
 						
@@ -443,6 +472,30 @@
 					"date": "2023-09-12T15:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -39.4, 30.2 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-12T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -39.6, 31.7 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-13T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -39.7, 32.7 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-13T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -40, 33.6 ]
 							}
 
 						

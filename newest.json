@@ -3,5 +3,100 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6431",
+			"title": "Tropical Storm Philippe",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6431",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "http://www.gdacs.org/report.aspx?eventid=1001014&amp;episodeid=9&amp;eventtype=TC"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2023/PHILIPPE.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-23T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -39.7, 15.6 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-24T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -40.9, 15.4 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-24T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -41.4, 15.6 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-24T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -41.7, 16.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-24T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -42.5, 16.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-25T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -43.3, 17.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-25T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -43.9, 17.4 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-09-25T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -45.5, 17.3 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

@@ -228,6 +228,141 @@
 					"date": "2023-10-13T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 151.3, 29.5 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-13T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 153.2, 31.2 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-14T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 156.5, 33.9 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6437",
+			"title": "Tropical Storm Sean",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6437",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "http://www.gdacs.org/report.aspx?eventid=1001022&amp;episodeid=2&amp;eventtype=TC"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2023/SEAN.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-11T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -33.1, 10.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-11T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -34.4, 10.9 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-11T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -35.3, 11.6 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-12T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -36.2, 12 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-12T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -36.7, 12.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-12T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -37.2, 13.1 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-12T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -38.2, 13.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-13T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -39.5, 14.1 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-13T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -40.5, 14.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-13T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -41.7, 14.6 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-13T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -42.5, 14.9 ]
 							}
 
 						

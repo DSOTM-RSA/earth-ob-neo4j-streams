@@ -3,5 +3,120 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6438",
+			"title": "Tropical Storm Sanba",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6438",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "http://www.gdacs.org/report.aspx?eventid=1001023&amp;episodeid=5&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp1623.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 108.7, 17.9 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-18T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 108.2, 18.6 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6439",
+			"title": "Tropical Storm Norma",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6439",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "http://www.gdacs.org/report.aspx?eventid=1001024&amp;episodeid=3&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep1723.tcw"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2023/NORMA.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-17T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -106.9, 12.9 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-18T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -107.6, 13.4 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -107.8, 13.9 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-18T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -107.9, 14.5 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

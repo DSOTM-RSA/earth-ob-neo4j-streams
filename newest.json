@@ -3,5 +3,129 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6447",
+			"title": "Tropical Storm Pilar",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6447",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "http://www.gdacs.org/report.aspx?eventid=1001031&amp;episodeid=7&amp;eventtype=TC"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep1923.tcw"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2023/PILAR.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-30T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -92, 11 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-30T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -92, 11 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-30T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -91.7, 11 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-30T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -91.4, 11.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-31T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -91.1, 11.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-31T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -90.6, 11.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-31T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -90.2, 11.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-10-31T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -89.8, 11.4 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-11-01T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -89.4, 11.7 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-11-01T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -89.6, 12 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-11-01T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -90.1, 12.4 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

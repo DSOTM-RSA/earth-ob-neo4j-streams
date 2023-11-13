@@ -3,5 +3,52 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6451",
+			"title": "Tropical Cyclone Mal",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6451",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "EO",
+					"url": "https://earthobservatory.nasa.gov/images/151989/hurricane-otis"
+				},
+
+							{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0224.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-11-13T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 170.8, -9.6 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-11-13T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 171.8, -11.1 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

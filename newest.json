@@ -71,6 +71,22 @@
 					"date": "2023-12-04T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 81.1, 13.4 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-12-04T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 80.8, 13.8 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2023-12-04T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 80.1, 14.3 ]
 							}
 
 						

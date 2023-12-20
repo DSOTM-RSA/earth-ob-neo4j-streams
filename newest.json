@@ -3,39 +3,5 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-		{
-			"id": "EONET_6468",
-			"title": "Reykjanes Volcano, Iceland",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6468",
-			"closed": null,
-				"categories": [
-					{
-					"id": "volcanoes",
-					"title": "Volcanoes"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "SIVolcano",
-					"url": "https://volcano.si.edu/volcano.cfm?vn=371020"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2023-12-19T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -22.717, 63.817 ]
-							}
-
-						
-			]
-		}
-
-		]
+	]
 }

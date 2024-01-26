@@ -351,112 +351,38 @@
 					"date": "2024-01-25T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 90, -15.1 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6475",
-			"title": "Tropical Cyclone 07P",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6475",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/sh0724.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-01-23T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 153.9, -16.6 ]
 							},
 
 							{
-							"magnitudeValue": 35.00,
+							"magnitudeValue": 85.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-01-23T06:00:00Z",
+					"date": "2024-01-25T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 153.8, -17 ]
+							"coordinates": [ 89.3, -15.5 ]
 							},
 
 							{
-							"magnitudeValue": 35.00,
+							"magnitudeValue": 90.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-01-23T12:00:00Z",
+					"date": "2024-01-25T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 153.6, -17.2 ]
+							"coordinates": [ 88.4, -16 ]
 							},
 
 							{
-							"magnitudeValue": 35.00,
+							"magnitudeValue": 105.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-01-23T18:00:00Z",
+					"date": "2024-01-26T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 153.3, -17.3 ]
+							"coordinates": [ 87.5, -16.3 ]
 							},
 
 							{
-							"magnitudeValue": 40.00,
+							"magnitudeValue": 105.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-01-24T00:00:00Z",
+					"date": "2024-01-26T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 153, -17.3 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-01-24T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 152.2, -17.4 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-01-24T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 150.7, -17.5 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-01-24T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 150, -17.8 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-01-25T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 149.1, -18.2 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-01-25T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 148, -18.7 ]
+							"coordinates": [ 86.5, -16.9 ]
 							}
 
 						

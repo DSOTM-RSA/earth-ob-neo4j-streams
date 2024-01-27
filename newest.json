@@ -383,6 +383,144 @@
 					"date": "2024-01-26T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 86.5, -16.9 ]
+							},
+
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-26T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 85.3, -17.5 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-26T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 84.2, -18.2 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-27T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 83.2, -18.7 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-27T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 82, -18.9 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6476",
+			"title": "Tropical Cyclone Candice",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6476",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0824.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-25T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 58.5, -20.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-25T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 59.6, -21.9 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-25T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 60.4, -23.6 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-25T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 60.8, -24.6 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-26T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 61.2, -25.3 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-26T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 61.8, -26 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-26T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 62.5, -26.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-26T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 61.3, -27.1 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-27T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 60.9, -27.5 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-27T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 60.5, -28.6 ]
 							}
 
 						

@@ -4,6 +4,40 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_6477",
+			"title": "Tropical Cyclone 09S",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6477",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0924.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-31T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 66, -19.7 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_6473",
 			"title": "Tropical Cyclone Anggrek",
             "description": null,
@@ -511,6 +545,38 @@
 					"date": "2024-01-30T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 72.8, -29.1 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-30T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 74.5, -30 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-30T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 76.1, -30.6 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-31T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 78.9, -31.4 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-01-31T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 82.8, -32.4 ]
 							}
 
 						

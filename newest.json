@@ -3,5 +3,63 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6479",
+			"title": "Tropical Cyclone Nat",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6479",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh1024.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-02-05T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -164.9, -14.6 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-02-05T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -162.8, -14.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-02-06T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -161.1, -15.4 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-02-06T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -159.4, -15.9 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

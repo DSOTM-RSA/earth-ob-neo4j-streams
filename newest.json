@@ -79,88 +79,38 @@
 					"date": "2024-02-17T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 68.9, -16.2 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_6485",
-			"title": "Tropical Cyclone 15P",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6485",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/sh1524.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-02-15T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -165.4, -16.5 ]
 							},
 
 							{
-							"magnitudeValue": 35.00,
+							"magnitudeValue": 85.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-02-15T18:00:00Z",
+					"date": "2024-02-17T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -164.5, -17 ]
+							"coordinates": [ 70.3, -16.4 ]
 							},
 
 							{
-							"magnitudeValue": 40.00,
+							"magnitudeValue": 100.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-02-16T00:00:00Z",
+					"date": "2024-02-17T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -163.3, -17.8 ]
+							"coordinates": [ 72.3, -16.7 ]
 							},
 
 							{
-							"magnitudeValue": 40.00,
+							"magnitudeValue": 105.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-02-16T06:00:00Z",
+					"date": "2024-02-18T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -162, -19 ]
+							"coordinates": [ 73.9, -17.4 ]
 							},
 
 							{
-							"magnitudeValue": 40.00,
+							"magnitudeValue": 120.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-02-16T12:00:00Z",
+					"date": "2024-02-18T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -160.6, -20.3 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-02-16T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -157.7, -22 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-02-17T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -155, -23.4 ]
+							"coordinates": [ 76.2, -18.5 ]
 							}
 
 						

@@ -3,5 +3,105 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6498",
+			"title": "Tropical Cyclone 18S",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6498",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh1824.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-11T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 99.8, -12 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-11T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 101.3, -12.2 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-11T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 102.6, -12 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6499",
+			"title": "Tropical Cyclone Filipo",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6499",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh1724.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-10T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 38.5, -20 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-11T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 37.9, -20.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-11T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 37.3, -20.3 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

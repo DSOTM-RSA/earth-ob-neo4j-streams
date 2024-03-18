@@ -239,6 +239,30 @@
 					"date": "2024-03-17T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 112.8, -17.1 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-17T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 112.7, -17.4 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-18T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 112.3, -17.4 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 112.2, -17 ]
 							}
 
 						
@@ -247,7 +271,7 @@
 
 			{
 			"id": "EONET_6501",
-			"title": "Tropical Cyclone 19P",
+			"title": "Tropical Cyclone Megan",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6501",
 			"closed": null,
@@ -353,6 +377,30 @@
 					"date": "2024-03-17T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 137.3, -14.9 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-17T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 137.2, -15.4 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-18T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 137, -15.6 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-03-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 136.7, -16 ]
 							}
 
 						

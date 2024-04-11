@@ -183,6 +183,80 @@
 					"date": "2024-04-10T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 115.2, -20.4 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-04-10T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 114.6, -21.2 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_6505",
+			"title": "Tropical Cyclone Paul",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6505",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh2224.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-04-10T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 154.0, -13.2 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-04-10T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 154.4, -13.7 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-04-11T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 155, -14.2 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-04-11T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 155.7, -14.5 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-04-11T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 156, -14.8 ]
 							}
 
 						

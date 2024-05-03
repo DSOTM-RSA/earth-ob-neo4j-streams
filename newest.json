@@ -3,5 +3,103 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_6512",
+			"title": "Tropical Cyclone Hidaya",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6512",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh2324.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-05-01T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 45.1, -8.6 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-05-01T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 44.9, -8.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-05-02T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 44.4, -9.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-05-02T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 44.2, -8.9 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-05-02T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 44.1, -8.8 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-05-02T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 43.7, -8.8 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-05-03T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 43.2, -8.7 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-05-03T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 42.6, -8.4 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-05-03T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 42, -8.2 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

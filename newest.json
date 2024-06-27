@@ -3,39 +3,5 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-		{
-			"id": "EONET_8212",
-			"title": "0289 NE DARLENE 3 Wildfire, Deschutes, Oregon",
-            "description": "One Mile South Southeast of the city of La Pine, Oregon",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8212",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 2415.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-06-25T16:15:00Z",
-					"type": "Point", 
-							"coordinates": [ -121.413517, 44.267745 ]
-							}
-
-						
-			]
-		}
-
-		]
+	]
 }

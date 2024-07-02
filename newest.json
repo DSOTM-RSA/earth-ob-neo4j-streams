@@ -4,48 +4,6 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_8333",
-			"title": "Tropical Cyclone Chris",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8333",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2024/CHRIS.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-01T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -96.2, 20 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-01T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -97.2, 20.1 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_8332",
 			"title": "Tropical Cyclone Beryl",
             "description": null,
@@ -145,6 +103,88 @@
 					"date": "2024-07-01T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -59.9, 11.7 ]
+							},
+
+							{
+							"magnitudeValue": 120.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-01T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -61.3, 12.4 ]
+							},
+
+							{
+							"magnitudeValue": 130.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-01T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -63.2, 13.2 ]
+							},
+
+							{
+							"magnitudeValue": 140.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-02T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -64.9, 13.8 ]
+							},
+
+							{
+							"magnitudeValue": 145.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-02T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -66.9, 14.6 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8333",
+			"title": "Tropical Cyclone Chris",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8333",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2024/CHRIS.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-01T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -96.2, 20 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-01T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -97.2, 20.1 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-01T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -97.8, 20.2 ]
 							}
 
 						

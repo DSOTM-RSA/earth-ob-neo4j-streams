@@ -4,40 +4,6 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_8476",
-			"title": "FRENCH Wildfire, Mariposa, California",
-            "description": "Midpines , Mariposa,",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8476",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 843.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-07-04T21:03:00Z",
-					"type": "Point", 
-							"coordinates": [ -119.995436, 37.505219 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_8474",
 			"title": "Tropical Cyclone Aletta",
             "description": null,
@@ -89,6 +55,22 @@
 					"date": "2024-07-05T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -109.3, 18.9 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-05T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -110.3, 18.7 ]
+							},
+
+							{
+							"magnitudeValue": 20.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-06T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -111.2, 18.5 ]
 							}
 
 						
@@ -323,6 +305,14 @@
 					"date": "2024-07-05T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -86.9, 20.1 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-05T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -88.3, 20.7 ]
 							}
 
 						

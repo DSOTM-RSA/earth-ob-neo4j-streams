@@ -4,210 +4,6 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_8605",
-			"title": "Wildfire in Canada 1020155",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8605",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1020155"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-07-09T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -114.73321629571095, 59.250131395703768 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_8606",
-			"title": "Wildfire in Canada 1020156",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8606",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1020156"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-07-09T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -119.94903658820522, 60.727804640856839 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_8607",
-			"title": "Wildfire in Canada 1020157",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8607",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1020157"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-07-09T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -114.35791622063068, 59.038897719174813 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_8608",
-			"title": "Wildfire in Canada 1020158",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8608",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1020158"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-07-09T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -114.52803122914129, 58.957022522428154 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_8609",
-			"title": "Wildfire in Canada 1020159",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8609",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1020159"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-07-09T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -110.53121824427423, 57.692295117618137 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_8610",
-			"title": "Wildfire in Canada 1020160",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8610",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1020160"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-07-09T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -118.24236514183465, 59.909666226691115 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_8332",
 			"title": "Tropical Cyclone Beryl",
             "description": null,
@@ -605,6 +401,30 @@
 					"date": "2024-07-10T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -85.2, 40.9 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-10T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -83.9, 42 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-10T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -81.8, 42.2 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-11T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -80.3, 43.1 ]
 							}
 
 						

@@ -3,5 +3,175 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_8725",
+			"title": "HILL SIDE Wildfire, Pueblo, Colorado",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8725",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 1334.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-15T10:21:00Z",
+					"type": "Point", 
+							"coordinates": [ -104.80968, 38.512107 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8728",
+			"title": "#1 Apex /AZ STATE Wildfire, Coconino, Arizona",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8728",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 2000.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-15T02:05:00Z",
+					"type": "Point", 
+							"coordinates": [ -112.24946, 35.869047 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8731",
+			"title": "Prairie Wildfire, Rosebud, Montana",
+            "description": "22 miles S of Lame Deer, MT",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8731",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 3961.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-14T18:37:00Z",
+					"type": "Point", 
+							"coordinates": [ -106.695601, 45.286573 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8736",
+			"title": "Hackley Wildfire, Rosebud, Montana",
+            "description": "24 miles S of Lame Deer, MT",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8736",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 654.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-14T18:36:00Z",
+					"type": "Point", 
+							"coordinates": [ -106.488472, 45.317206 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8734",
+			"title": "Apex Wildfire, Coconino, Arizona",
+            "description": "10 miles West of Tusayan, AZ",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8734",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 2000.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-14T18:31:00Z",
+					"type": "Point", 
+							"coordinates": [ -112.316, 35.953 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

@@ -3,5 +3,107 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_8780",
+			"title": "Jack Canyon Mutual Aid Wildfire, Umatilla, Oregon",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8780",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 1000.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-17T20:29:00Z",
+					"type": "Point", 
+							"coordinates": [ -118.925467, 45.452117 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8776",
+			"title": "NF Owens Wildfire, Umatilla, Oregon",
+            "description": "6 miles NW Ukiah, OR",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8776",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 952.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-17T19:04:00Z",
+					"type": "Point", 
+							"coordinates": [ -118.925467, 45.452117 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8775",
+			"title": "DURKEE Wildfire, Baker, Oregon",
+            "description": "1 Mile West of Durkee, OR",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8775",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 3000.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-17T12:49:00Z",
+					"type": "Point", 
+							"coordinates": [ -117.461014, 44.586739 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

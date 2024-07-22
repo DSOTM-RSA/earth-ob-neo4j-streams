@@ -4,10 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_8851",
-			"title": "Wildfire in Australia 1020273",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8851",
+			"id": "EONET_8875",
+			"title": "COURTROCK Wildfire, Grant, Oregon",
+            "description": "7.1 Miles S of Monument, Oregon",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8875",
 			"closed": null,
 				"categories": [
 					{
@@ -18,19 +18,53 @@
 	    				],
     			"sources": [
 					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1020273"
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-07-20T19:00:00Z",
+							"magnitudeValue": 1200.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-21T19:15:00Z",
 					"type": "Point", 
-							"coordinates": [ 142.89211615107652, -12.6088971524413 ]
+							"coordinates": [ -119.381111, 44.726833 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8877",
+			"title": "KNOT Wildfire, Klamath, Oregon",
+            "description": "3.5 miles WSW of Sprague River",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8877",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 1200.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-21T18:36:00Z",
+					"type": "Point", 
+							"coordinates": [ -121.439667, 42.469167 ]
 							}
 
 						
@@ -39,7 +73,7 @@
 
 			{
 			"id": "EONET_8849",
-			"title": "Tropical Storm 04W",
+			"title": "Tropical Storm Prapiroon",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8849",
 			"closed": null,
@@ -89,6 +123,38 @@
 					"date": "2024-07-21T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 110.9, 17.9 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-21T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 110.2, 18.8 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-22T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 109.2, 19.6 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-22T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 108.7, 20.1 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-22T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 108.2, 20.5 ]
 							}
 
 						
@@ -163,6 +229,174 @@
 					"date": "2024-07-21T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 125.6, 16.9 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-21T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.7, 17 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-22T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.9, 17.6 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-22T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.7, 18.2 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-22T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.4, 18.4 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8872",
+			"title": "HAWARDEN Wildfire, Riverside, California",
+            "description": "Mary Street X Hawarden Street   Community of Riverside City",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8872",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 500.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-21T17:21:00Z",
+					"type": "Point", 
+							"coordinates": [ -117.380055, 33.925663 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8873",
+			"title": "EAGLE Wildfire, Riverside, California",
+            "description": "Eagle Rd x Cajalco Rd",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8873",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 1609.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-21T17:15:00Z",
+					"type": "Point", 
+							"coordinates": [ -117.502905, 33.824352 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8896",
+			"title": "Presto Trail Wildfire, Bingham, Idaho",
+            "description": "10 miles SE of Firth, ID.",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8896",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 500.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-21T16:54:00Z",
+					"type": "Point", 
+							"coordinates": [ -112.07405, 43.220467 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_8882",
+			"title": "Rock Wildfire, Gila, Arizona",
+            "description": "Warm Springs 20 miles Northeast of San Carlos",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8882",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 1000.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-21T15:28:00Z",
+					"type": "Point", 
+							"coordinates": [ -110.270333, 33.449417 ]
 							}
 
 						

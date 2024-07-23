@@ -4,10 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_8875",
-			"title": "COURTROCK Wildfire, Grant, Oregon",
-            "description": "7.1 Miles S of Monument, Oregon",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8875",
+			"id": "EONET_8942",
+			"title": "Wildfire in Australia 1020331",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8942",
 			"closed": null,
 				"categories": [
 					{
@@ -18,53 +18,19 @@
 	    				],
     			"sources": [
 					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1020331"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": 1200.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-07-21T19:15:00Z",
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2024-07-22T19:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -119.381111, 44.726833 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_8877",
-			"title": "KNOT Wildfire, Klamath, Oregon",
-            "description": "3.5 miles WSW of Sprague River",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8877",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 1200.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-07-21T18:36:00Z",
-					"type": "Point", 
-							"coordinates": [ -121.439667, 42.469167 ]
+							"coordinates": [ 135.18364561300623, -14.073936299558911 ]
 							}
 
 						
@@ -155,6 +121,22 @@
 					"date": "2024-07-22T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 108.2, 20.5 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-22T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 108, 21.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-23T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 107.6, 21.5 ]
 							}
 
 						
@@ -163,7 +145,7 @@
 
 			{
 			"id": "EONET_8850",
-			"title": "Tropical Storm Gaemi",
+			"title": "Typhoon Gaemi",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8850",
 			"closed": null,
@@ -261,142 +243,38 @@
 					"date": "2024-07-22T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 125.4, 18.4 ]
-							}
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_8872",
-			"title": "HAWARDEN Wildfire, Riverside, California",
-            "description": "Mary Street X Hawarden Street   Community of Riverside City",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8872",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 500.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-07-21T17:21:00Z",
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-22T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -117.380055, 33.925663 ]
-							}
+							"coordinates": [ 124.8, 18.4 ]
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_8873",
-			"title": "EAGLE Wildfire, Riverside, California",
-            "description": "Eagle Rd x Cajalco Rd",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8873",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 1609.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-07-21T17:15:00Z",
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-23T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -117.502905, 33.824352 ]
-							}
+							"coordinates": [ 124.9, 20 ]
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_8896",
-			"title": "Presto Trail Wildfire, Bingham, Idaho",
-            "description": "10 miles SE of Firth, ID.",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8896",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 500.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-07-21T16:54:00Z",
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-23T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -112.07405, 43.220467 ]
-							}
+							"coordinates": [ 125.1, 20.6 ]
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_8882",
-			"title": "Rock Wildfire, Gila, Arizona",
-            "description": "Warm Springs 20 miles Northeast of San Carlos",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8882",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 1000.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-07-21T15:28:00Z",
+							{
+							"magnitudeValue": 95.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-23T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -110.270333, 33.449417 ]
+							"coordinates": [ 124.5, 21.9 ]
 							}
 
 						

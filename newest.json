@@ -4,148 +4,8 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_8942",
-			"title": "Wildfire in Australia 1020331",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8942",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1020331"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-07-22T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 135.18364561300623, -14.073936299558911 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_8849",
-			"title": "Tropical Storm Prapiroon",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8849",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp0424.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-20T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 111.5, 16.3 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-21T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 111.3, 16 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-21T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 111, 17.1 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-21T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 110.9, 17.9 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-21T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 110.2, 18.8 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-22T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 109.2, 19.6 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-22T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 108.7, 20.1 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-22T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 108.2, 20.5 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-22T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 108, 21.1 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-23T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 107.6, 21.5 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_8850",
-			"title": "Typhoon Gaemi",
+			"title": "Super Typhoon Gaemi",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8850",
 			"closed": null,
@@ -275,6 +135,38 @@
 					"date": "2024-07-23T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 124.5, 21.9 ]
+							},
+
+							{
+							"magnitudeValue": 120.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-23T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.5, 22.8 ]
+							},
+
+							{
+							"magnitudeValue": 120.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-24T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.3, 23.5 ]
+							},
+
+							{
+							"magnitudeValue": 125.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-24T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 122.5, 24.2 ]
+							},
+
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-24T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 121.7, 23.7 ]
 							}
 
 						

@@ -4,10 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_8850",
-			"title": "Super Typhoon Gaemi",
+			"id": "EONET_9013",
+			"title": "Tropical Cyclone Bud",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_8850",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_9013",
 			"closed": null,
 				"categories": [
 					{
@@ -19,7 +19,12 @@
     			"sources": [
 					{
 					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp0524.tcw"
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep0224.tcw"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2024/BUD.shtml"
 				}
 
 						
@@ -28,145 +33,91 @@
 					{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-07-20T06:00:00Z",
+					"date": "2024-07-25T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 128.3, 15.7 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-20T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 127.3, 16.2 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-20T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 126.4, 16.6 ]
+							"coordinates": [ -112.8, 17.4 ]
 							},
 
 							{
 							"magnitudeValue": 45.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-07-21T00:00:00Z",
+					"date": "2024-07-25T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 125.6, 16.9 ]
+							"coordinates": [ -113.9, 17.8 ]
 							},
 
 							{
 							"magnitudeValue": 50.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-07-21T06:00:00Z",
+					"date": "2024-07-25T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 125.7, 16.8 ]
+							"coordinates": [ -115.2, 18.2 ]
 							},
 
 							{
 							"magnitudeValue": 50.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-07-21T12:00:00Z",
+					"date": "2024-07-25T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 125.6, 16.9 ]
+							"coordinates": [ -116.5, 18.3 ]
 							},
 
 							{
-							"magnitudeValue": 55.00,
+							"magnitudeValue": 45.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-07-21T18:00:00Z",
+					"date": "2024-07-26T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 125.7, 17 ]
+							"coordinates": [ -117.5, 18.5 ]
 							},
 
 							{
-							"magnitudeValue": 50.00,
+							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-07-22T00:00:00Z",
+					"date": "2024-07-26T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 125.9, 17.6 ]
+							"coordinates": [ -118.4, 18.7 ]
 							},
 
 							{
-							"magnitudeValue": 55.00,
+							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-07-22T06:00:00Z",
+					"date": "2024-07-26T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 125.7, 18.2 ]
-							},
+							"coordinates": [ -119.2, 19.1 ]
+							}
 
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-22T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 125.4, 18.4 ]
-							},
+						
+			]
+		},
 
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-22T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 124.8, 18.4 ]
-							},
+			{
+			"id": "EONET_9018",
+			"title": "2533- Team 8 Wildfire, Harney, Oregon",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_9018",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
 
-							{
-							"magnitudeValue": 80.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-23T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 124.9, 20 ]
-							},
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
 
-							{
-							"magnitudeValue": 90.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-23T06:00:00Z",
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 1300.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-07-25T14:13:00Z",
 					"type": "Point", 
-							"coordinates": [ 125.1, 20.6 ]
-							},
-
-							{
-							"magnitudeValue": 95.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-23T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 124.5, 21.9 ]
-							},
-
-							{
-							"magnitudeValue": 120.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-23T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 123.5, 22.8 ]
-							},
-
-							{
-							"magnitudeValue": 120.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-24T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 123.3, 23.5 ]
-							},
-
-							{
-							"magnitudeValue": 125.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-24T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 122.5, 24.2 ]
-							},
-
-							{
-							"magnitudeValue": 110.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-07-24T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 121.7, 23.7 ]
+							"coordinates": [ -119.44245, 43.9092 ]
 							}
 
 						

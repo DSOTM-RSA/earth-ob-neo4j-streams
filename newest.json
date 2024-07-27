@@ -84,40 +84,14 @@
 					"date": "2024-07-26T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -119.2, 19.1 ]
-							}
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_9018",
-			"title": "2533- Team 8 Wildfire, Harney, Oregon",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_9018",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 1300.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-07-25T14:13:00Z",
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-26T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -119.44245, 43.9092 ]
+							"coordinates": [ -120.1, 19.2 ]
 							}
 
 						

@@ -3,5 +3,68 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_9146",
+			"title": "Tropical Storm Carlotta",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_9146",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep0324.tcw"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2024/THREE-E.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-07-31T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -107.7, 15.9 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-01T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -108.4, 16.4 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-01T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -109.4, 16.8 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-01T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -110.5, 17.2 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

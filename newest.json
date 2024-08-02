@@ -5,7 +5,7 @@
 	"events": [
 		{
 			"id": "EONET_9146",
-			"title": "Tropical Storm Carlotta",
+			"title": "Hurricane Carlotta",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_9146",
 			"closed": null,
@@ -60,6 +60,38 @@
 					"date": "2024-08-01T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -110.5, 17.2 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-01T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -111.4, 17.3 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-02T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -112.3, 17.8 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-02T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -113.3, 18 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-02T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -114.6, 18.5 ]
 							}
 
 						

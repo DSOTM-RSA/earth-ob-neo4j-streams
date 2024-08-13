@@ -4,6 +4,124 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_9961",
+			"title": "Tropical Storm Ernesto",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_9961",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2024/ERNESTO.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-12T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -57.5, 16 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-13T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -59.6, 16 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-13T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -61.3, 16.2 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_9962",
+			"title": "Wildfire in Australia 1021229",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_9962",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1021229"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2024-08-12T19:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 135.37436138944119, -13.254837427465988 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_9963",
+			"title": "Wildfire in Australia 1021230",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_9963",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1021230"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2024-08-12T19:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 135.39184029001575, -13.112206454224406 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_9680",
 			"title": "Tropical Storm Maria",
             "description": null,
@@ -183,6 +301,14 @@
 					"date": "2024-08-12T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 139.8, 40.3 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-12T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 138.8, 40.8 ]
 							}
 
 						
@@ -249,6 +375,38 @@
 					"date": "2024-08-12T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 150.4, 33 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-12T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 149.5, 34.1 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-13T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 147.9, 35.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-13T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 146.9, 36 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-13T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 145.9, 37.2 ]
 							}
 
 						

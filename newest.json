@@ -103,6 +103,22 @@
 					"date": "2024-08-14T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 141.1, 27.6 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-14T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.3, 28.4 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-15T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.2, 29.7 ]
 							}
 
 						
@@ -111,7 +127,7 @@
 
 			{
 			"id": "EONET_9961",
-			"title": "Tropical Storm Ernesto",
+			"title": "Hurricane Ernesto",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_9961",
 			"closed": null,
@@ -185,6 +201,38 @@
 					"date": "2024-08-14T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -66.6, 19.5 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-14T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -67.6, 20.5 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-14T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -68.3, 21.7 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-15T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -68.9, 23 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-15T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -69.1, 23.9 ]
 							}
 
 						

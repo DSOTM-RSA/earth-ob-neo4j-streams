@@ -4,10 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_10099",
-			"title": "Midway Pasture Wildfire, Wilbarger, Texas",
+			"id": "EONET_10149",
+			"title": "Wildfire in Canada 1021391",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10099",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10149",
 			"closed": null,
 				"categories": [
 					{
@@ -18,19 +18,53 @@
 	    				],
     			"sources": [
 					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1021391"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": 1000.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-08-15T21:52:00Z",
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2024-08-16T19:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -99.1963, 33.95502 ]
+							"coordinates": [ -123.67190678699345, 64.9511126731221 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_10150",
+			"title": "Wildfire in Canada 1021392",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10150",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1021392"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2024-08-16T19:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -122.59712626346071, 64.288594785809764 ]
 							}
 
 						
@@ -201,152 +235,38 @@
 					"date": "2024-08-16T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 142, 35 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_9961",
-			"title": "Hurricane Ernesto",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_9961",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2024/ERNESTO.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-12T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -57.5, 16 ]
 							},
 
 							{
-							"magnitudeValue": 35.00,
+							"magnitudeValue": 100.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-08-13T03:00:00Z",
+					"date": "2024-08-16T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -59.6, 16 ]
+							"coordinates": [ 143, 35.8 ]
 							},
 
 							{
-							"magnitudeValue": 35.00,
+							"magnitudeValue": 95.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-08-13T09:00:00Z",
+					"date": "2024-08-17T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -61.3, 16.2 ]
+							"coordinates": [ 143.9, 36.5 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 90.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-08-13T15:00:00Z",
+					"date": "2024-08-17T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -62.6, 16.9 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-13T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -64.1, 18 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-14T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -65.3, 18.8 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-14T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -66.6, 19.5 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-14T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -67.6, 20.5 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-14T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -68.3, 21.7 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-15T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -68.9, 23 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-15T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -69.1, 23.9 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-15T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -69.2, 25 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-15T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -68.9, 26.1 ]
+							"coordinates": [ 145, 37.2 ]
 							},
 
 							{
 							"magnitudeValue": 85.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-08-16T03:00:00Z",
+					"date": "2024-08-17T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -68.1, 27.1 ]
-							},
-
-							{
-							"magnitudeValue": 85.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-16T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -67, 28.1 ]
+							"coordinates": [ 147.3, 37.8 ]
 							}
 
 						

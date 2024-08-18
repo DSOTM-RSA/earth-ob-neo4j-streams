@@ -4,74 +4,6 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_10149",
-			"title": "Wildfire in Canada 1021391",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10149",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1021391"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-08-16T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -123.67190678699345, 64.9511126731221 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_10150",
-			"title": "Wildfire in Canada 1021392",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10150",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1021392"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-08-16T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -122.59712626346071, 64.288594785809764 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_10016",
 			"title": "Typhoon Ampil",
             "description": null,
@@ -267,6 +199,30 @@
 					"date": "2024-08-17T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 147.3, 37.8 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-17T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 149.8, 38.6 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-18T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 152.5, 39.5 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-18T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 155.3, 40.5 ]
 							}
 
 						

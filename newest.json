@@ -4,49 +4,33 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_10388",
-			"title": "Tropical Storm Shanshan",
+			"id": "EONET_10420",
+			"title": "Wildfire in United States 1021654",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10388",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10420",
 			"closed": null,
 				"categories": [
 					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
+					"id": "wildfires",
+					"title": "Wildfires"
 				}
 
 	    				],
     			"sources": [
 					{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp1124.tcw"
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1021654"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-22T00:00:00Z",
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2024-08-22T19:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 141.3, 17 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-22T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 141.1, 17 ]
-							},
-
-							{
-							"magnitudeValue": 45.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-08-22T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 140.9, 17 ]
+							"coordinates": [ -106.32554029425816, 45.126796108675087 ]
 							}
 
 						
@@ -206,6 +190,178 @@
 					"date": "2024-08-22T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -124.2, 16.7 ]
+							},
+
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-22T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -124.7, 16.9 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -125.2, 17.2 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -125.8, 17.3 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -126.4, 17.3 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_10388",
+			"title": "Typhoon Shanshan",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10388",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp1124.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-22T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.3, 17 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-22T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.1, 17 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-22T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 140.9, 17 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-22T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 140.8, 17.5 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141, 17.8 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.2, 17.8 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.3, 18.2 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_10419",
+			"title": "Tropical Storm Hone",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10419",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/cp0124.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-22T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -141.3, 15.6 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -142.9, 15.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -144.1, 15.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -145.5, 16.2 ]
 							}
 
 						

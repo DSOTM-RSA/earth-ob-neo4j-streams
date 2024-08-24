@@ -4,10 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_10420",
-			"title": "Wildfire in United States 1021654",
+			"id": "EONET_10463",
+			"title": "Wildfire in United States 1021699",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10420",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10463",
 			"closed": null,
 				"categories": [
 					{
@@ -19,7 +19,7 @@
     			"sources": [
 					{
 					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1021654"
+					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1021699"
 				}
 
 						
@@ -28,9 +28,9 @@
 					{
 							"magnitudeValue": null,
 					"magnitudeUnit": null,
-					"date": "2024-08-22T19:00:00Z",
+					"date": "2024-08-23T19:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -106.32554029425816, 45.126796108675087 ]
+							"coordinates": [ -106.36354236645532, 45.383289208951233 ]
 							}
 
 						
@@ -222,6 +222,38 @@
 					"date": "2024-08-23T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -126.4, 17.3 ]
+							},
+
+							{
+							"magnitudeValue": 95.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -127.2, 17.2 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-24T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -128, 17.4 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-24T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -128.9, 17.5 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-24T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -129.6, 17.5 ]
 							}
 
 						
@@ -304,6 +336,38 @@
 					"date": "2024-08-23T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 141.3, 18.2 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.3, 18.8 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-24T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.3, 20 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-24T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.1, 21.1 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-24T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 140.7, 22.5 ]
 							}
 
 						
@@ -362,6 +426,38 @@
 					"date": "2024-08-23T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -145.5, 16.2 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-23T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -147, 16.6 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-24T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -148.6, 16.8 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-24T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -149.9, 17.2 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-24T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -151.3, 17.4 ]
 							}
 
 						

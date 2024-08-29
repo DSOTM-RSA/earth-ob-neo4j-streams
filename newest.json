@@ -4,40 +4,6 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_10606",
-			"title": "Wildfire in Australia 1021800",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10606",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1021800"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-08-27T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 137.96254507024861, -17.937669024003149 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_10215",
 			"title": "Hurricane Gilma",
             "description": null,
@@ -382,6 +348,38 @@
 					"date": "2024-08-28T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -145.1, 18.7 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-28T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -146.4, 18.9 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-29T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -147.6, 19.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-29T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -148.9, 19.4 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-29T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -150.1, 19.6 ]
 							}
 
 						
@@ -624,6 +622,38 @@
 					"date": "2024-08-28T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 130.1, 30.6 ]
+							},
+
+							{
+							"magnitudeValue": 85.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-28T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.2, 31.3 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-29T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.2, 31.9 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-29T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.5, 32.9 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-29T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 131.2, 33.4 ]
 							}
 
 						
@@ -842,6 +872,38 @@
 					"date": "2024-08-28T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -168.2, 20.4 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-28T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -168.7, 20.6 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-29T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -169.7, 20.7 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-29T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -170.7, 20.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-29T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -171.6, 20.9 ]
 							}
 
 						
@@ -964,6 +1026,30 @@
 					"date": "2024-08-28T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -132.4, 18.3 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-28T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -133, 17.6 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-29T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -133.7, 17.2 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-08-29T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -134.8, 16.9 ]
 							}
 
 						

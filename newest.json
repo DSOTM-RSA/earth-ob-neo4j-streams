@@ -4,42 +4,8 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_10763",
-			"title": "BIGFLAT Wildfire, Washington, Idaho",
-            "description": "26 miles east of Weiser, ID",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10763",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 1000.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-02T18:09:00Z",
-					"type": "Point", 
-							"coordinates": [ -116.439, 44.322333 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_10740",
-			"title": "Tropical Storm Yagi",
+			"title": "Typhoon Yagi",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10740",
 			"closed": null,
@@ -129,278 +95,38 @@
 					"date": "2024-09-03T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 119, 18.8 ]
-							}
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_10758",
-			"title": "0778 PR Wildfire, Grant, Oregon",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10758",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 3015.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-02T17:20:00Z",
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-03T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -119.607833, 44.28 ]
-							}
+							"coordinates": [ 118.3, 18.8 ]
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_10755",
-			"title": "Glendale Wildfire, Blaine, Idaho",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10755",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 550.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-02T15:16:00Z",
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-04T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -114.323333, 43.401 ]
-							}
+							"coordinates": [ 117.7, 19.1 ]
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_10761",
-			"title": "0761  RAIL RIDGE Wildfire, Grant, Oregon",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10761",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 7748.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-02T15:02:00Z",
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-04T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -119.559833, 44.240833 ]
-							}
+							"coordinates": [ 117.4, 19.2 ]
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_10756",
-			"title": "Chimney Wildfire, Camas, Idaho",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10756",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 2000.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-02T15:01:00Z",
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-04T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -115.0568, 43.4537 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_10767",
-			"title": "Mineral Wildfire, Washington, Idaho",
-            "description": "21NM Northwest of Weiser, ID",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10767",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 2000.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-02T13:12:00Z",
-					"type": "Point", 
-							"coordinates": [ -117.188927, 44.486176 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_10759",
-			"title": "JONES Wildfire, Malheur, Oregon",
-            "description": "10 MILES EAST OF JUNTURA,OR",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10759",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 3800.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-02T12:39:00Z",
-					"type": "Point", 
-							"coordinates": [ -117.961611, 43.744205 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_10768",
-			"title": "SYRUP Wildfire, Elmore, Idaho",
-            "description": "5 MILES NORTH MOUNTAIN HOME, ID",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10768",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 5129.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-02T12:28:00Z",
-					"type": "Point", 
-							"coordinates": [ -115.672065, 43.220271 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_10764",
-			"title": "0773 OAK CANYON Wildfire, Wasco, Oregon",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10764",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 5000.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-02T12:12:00Z",
-					"type": "Point", 
-							"coordinates": [ -121.048917, 45.292783 ]
+							"coordinates": [ 116.9, 19.2 ]
 							}
 
 						

@@ -5,7 +5,7 @@
 	"events": [
 		{
 			"id": "EONET_10740",
-			"title": "Typhoon Yagi",
+			"title": "Super Typhoon Yagi",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10740",
 			"closed": null,
@@ -127,6 +127,38 @@
 					"date": "2024-09-04T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 116.9, 19.2 ]
+							},
+
+							{
+							"magnitudeValue": 120.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-04T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 116.3, 19.2 ]
+							},
+
+							{
+							"magnitudeValue": 130.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-05T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 115.8, 19.1 ]
+							},
+
+							{
+							"magnitudeValue": 125.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-05T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 115.1, 19.2 ]
+							},
+
+							{
+							"magnitudeValue": 120.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-05T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 114.1, 19.3 ]
 							}
 
 						

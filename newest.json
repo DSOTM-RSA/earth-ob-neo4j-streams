@@ -3,5 +3,131 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_10892",
+			"title": "WEST WARM SPRINGS Wildfire, Hot Springs, Wyoming",
+            "description": "5 miles SE of Thermopolis, WY",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10892",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 2000.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-09-09T18:41:00Z",
+					"type": "Point", 
+							"coordinates": [ -108.11155, 43.607883 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_10891",
+			"title": "AIRPORT Wildfire, Orange, California",
+            "description": "Trabuco Canyon",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10891",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 1900.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-09-09T16:24:00Z",
+					"type": "Point", 
+							"coordinates": [ -117.5816667, 33.6625 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_10885",
+			"title": "Tropical Storm Francine",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10885",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2024/FRANCINE.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-09T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -94.9, 23 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-09T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -96, 24 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-10T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -96.2, 24.3 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-10T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -96.2, 24.4 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

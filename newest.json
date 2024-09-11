@@ -4,67 +4,57 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_10892",
-			"title": "WEST WARM SPRINGS Wildfire, Hot Springs, Wyoming",
-            "description": "5 miles SE of Thermopolis, WY",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10892",
+			"id": "EONET_10901",
+			"title": "Tropical Storm Bebinca",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10901",
 			"closed": null,
 				"categories": [
 					{
-					"id": "wildfires",
-					"title": "Wildfires"
+					"id": "severeStorms",
+					"title": "Severe Storms"
 				}
 
 	    				],
     			"sources": [
 					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp1424.tcw"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": 2000.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-09T18:41:00Z",
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-10T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -108.11155, 43.607883 ]
-							}
+							"coordinates": [ 143.9, 13.3 ]
+							},
 
-						
-			]
-		},
-
-			{
-			"id": "EONET_10891",
-			"title": "AIRPORT Wildfire, Orange, California",
-            "description": "Trabuco Canyon",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_10891",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 1900.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-09T16:24:00Z",
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-11T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -117.5816667, 33.6625 ]
+							"coordinates": [ 142.3, 13.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-11T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.9, 14.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-11T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 140.5, 14.8 ]
 							}
 
 						
@@ -123,6 +113,38 @@
 					"date": "2024-09-10T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -96.2, 24.4 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-10T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -95.6, 24.9 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-10T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -95, 25.7 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-11T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -94.3, 26.4 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-11T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -93.8, 27 ]
 							}
 
 						

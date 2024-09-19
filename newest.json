@@ -111,168 +111,38 @@
 					"date": "2024-09-18T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 128.5, 25.7 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_11027",
-			"title": "Tropical Storm Gordon",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11027",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2024/GORDON.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-13T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -38.6, 19.4 ]
 							},
 
 							{
-							"magnitudeValue": 35.00,
+							"magnitudeValue": 45.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-09-13T21:00:00Z",
+					"date": "2024-09-18T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -39.5, 19.5 ]
+							"coordinates": [ 127.8, 27 ]
 							},
 
 							{
 							"magnitudeValue": 40.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-09-14T03:00:00Z",
+					"date": "2024-09-19T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -40.3, 19.8 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-14T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -40.9, 20.1 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-14T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -41.7, 20.1 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-14T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -42.9, 20.3 ]
+							"coordinates": [ 126.1, 28.7 ]
 							},
 
 							{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-09-15T03:00:00Z",
+					"date": "2024-09-19T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -43.8, 19.7 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-15T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -44.8, 19.6 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-15T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -45.5, 19.2 ]
+							"coordinates": [ 123.1, 29.6 ]
 							},
 
 							{
 							"magnitudeValue": 30.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-09-15T21:00:00Z",
+					"date": "2024-09-19T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -46.1, 19.2 ]
-							},
-
-							{
-							"magnitudeValue": 25.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-16T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -46.8, 19 ]
-							},
-
-							{
-							"magnitudeValue": 25.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-16T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -47.5, 19.2 ]
-							},
-
-							{
-							"magnitudeValue": 30.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-16T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -48.1, 19.1 ]
-							},
-
-							{
-							"magnitudeValue": 30.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-16T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -48.5, 19 ]
-							},
-
-							{
-							"magnitudeValue": 30.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-17T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -48.8, 19 ]
-							},
-
-							{
-							"magnitudeValue": 30.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-17T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -49, 19 ]
-							},
-
-							{
-							"magnitudeValue": 25.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-09-17T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -49.1, 19.5 ]
+							"coordinates": [ 122, 30.5 ]
 							}
 
 						

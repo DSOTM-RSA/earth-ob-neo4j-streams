@@ -4,6 +4,40 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_11191",
+			"title": "Wildfire in Brazil 1022297",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11191",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1022297"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2024-09-19T19:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -47.761021440497338, -20.43576574451032 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_11105",
 			"title": "Typhoon Pulasan",
             "description": null,
@@ -143,6 +177,38 @@
 					"date": "2024-09-19T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 122, 30.5 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-19T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 121.4, 30.9 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-20T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 120.3, 32 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-20T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 120.4, 32.5 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-20T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 121.1, 32.8 ]
 							}
 
 						

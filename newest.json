@@ -3,5 +3,60 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_11265",
+			"title": "Tropical Storm John",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11265",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep1024.tcw"
+				},
+
+							{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2024/JOHN.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-23T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -98.6, 14 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-23T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -98.5, 14.2 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-23T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -98.6, 14.6 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

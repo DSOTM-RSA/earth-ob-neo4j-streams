@@ -4,6 +4,56 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_11303",
+			"title": "Tropical Storm Cimaron",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11303",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp1824.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-25T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 134.7, 28.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-25T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 133.9, 28.2 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-25T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 133.3, 27.8 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_11265",
 			"title": "Hurricane John",
             "description": null,
@@ -84,6 +134,96 @@
 					"date": "2024-09-24T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -100.3, 17.7 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-24T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -100.7, 17.4 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-25T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101, 17.1 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-25T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.3, 16.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-25T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -101.5, 16.2 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_11304",
+			"title": "Tropical Storm Helene",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11304",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2024/HELENE.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-24T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -84.3, 19.5 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-24T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -84.7, 19.7 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-25T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -85.5, 19.9 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-25T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -86.2, 20.7 ]
 							}
 
 						

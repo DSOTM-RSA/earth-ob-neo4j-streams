@@ -4,44 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_11326",
-			"title": "LONG HOLLOW Wildfire, Whitman, Washington",
+			"id": "EONET_11350",
+			"title": "Tropical Storm Jebi",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11326",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 1000.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-26T10:31:00Z",
-					"type": "Point", 
-							"coordinates": [ -117.573, 46.6904 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_11324",
-			"title": "Tropical Storm Isaac",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11324",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11350",
 			"closed": null,
 				"categories": [
 					{
@@ -52,69 +18,35 @@
 	    				],
     			"sources": [
 					{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2024/ISAAC.shtml"
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp1924.tcw"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-09-26T03:00:00Z",
+					"date": "2024-09-27T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -54.1, 37.1 ]
+							"coordinates": [ 145.3, 17.8 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-09-26T09:00:00Z",
+					"date": "2024-09-27T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -52.8, 37.1 ]
+							"coordinates": [ 144.8, 18.3 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 40.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-09-26T15:00:00Z",
+					"date": "2024-09-27T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -51.7, 37.3 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_11327",
-			"title": "GOOSMUS Wildfire, Ferry, Washington",
-            "description": "~5 miles north of Curlew, WA along hwy 21.",
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11327",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 1500.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-25T18:16:00Z",
-					"type": "Point", 
-							"coordinates": [ -118.554467, 48.946833 ]
+							"coordinates": [ 144.9, 18.4 ]
 							}
 
 						
@@ -266,6 +198,38 @@
 					"date": "2024-09-26T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -102.6, 17.4 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-26T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -102.7, 17.5 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-27T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -103.1, 17.8 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-27T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -103, 17.6 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-27T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -102.9, 18 ]
 							}
 
 						
@@ -348,6 +312,22 @@
 					"date": "2024-09-26T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 131.9, 28.1 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-26T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 131.8, 28.2 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-27T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 132.1, 28.6 ]
 							}
 
 						
@@ -356,7 +336,7 @@
 
 			{
 			"id": "EONET_11304",
-			"title": "Tropical Storm Helene",
+			"title": "Hurricane Helene",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11304",
 			"closed": null,
@@ -438,6 +418,38 @@
 					"date": "2024-09-26T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -86.2, 24.2 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-26T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -85.5, 25.5 ]
+							},
+
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-26T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -84.6, 27.9 ]
+							},
+
+							{
+							"magnitudeValue": 120.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-27T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -83.9, 29.9 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-27T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -83, 32.8 ]
 							}
 
 						
@@ -445,33 +457,73 @@
 		},
 
 			{
-			"id": "EONET_11329",
-			"title": "KELLY LANE Wildfire, Yakima, Washington",
+			"id": "EONET_11324",
+			"title": "Hurricane Isaac",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11329",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11324",
 			"closed": null,
 				"categories": [
 					{
-					"id": "wildfires",
-					"title": "Wildfires"
+					"id": "severeStorms",
+					"title": "Severe Storms"
 				}
 
 	    				],
     			"sources": [
 					{
-					"id": "IRWIN",
-					"url": "https://irwin.doi.gov/observer/"
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2024/ISAAC.shtml"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": 1500.00,
-					"magnitudeUnit": "acres",
-					"date": "2024-09-25T14:22:00Z",
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-26T03:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -120.3753, 46.6377 ]
+							"coordinates": [ -54.1, 37.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-26T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -52.8, 37.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-26T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -51.7, 37.3 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-26T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -50.6, 37.5 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-27T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -49.8, 37.1 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-09-27T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -48.5, 37 ]
 							}
 
 						

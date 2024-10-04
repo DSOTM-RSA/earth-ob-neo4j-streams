@@ -4,41 +4,33 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_11475",
-			"title": "Tropical Storm Leslie",
+			"id": "EONET_11476",
+			"title": "Wildfire in Paraguay 1022572",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11475",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11476",
 			"closed": null,
 				"categories": [
 					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
+					"id": "wildfires",
+					"title": "Wildfires"
 				}
 
 	    				],
     			"sources": [
 					{
-					"id": "JTWC",
-					"url": "https://www.nhc.noaa.gov/archive/2024/LESLIE.shtml"
+					"id": "GDACS",
+					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1022572"
 				}
 
 						
 			],
 					"geometry": [
 					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-03T03:00:00Z",
+							"magnitudeValue": null,
+					"magnitudeUnit": null,
+					"date": "2024-10-03T19:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -30.1, 10.4 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-03T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -30.5, 10.3 ]
+							"coordinates": [ -59.091654296068185, -21.26266230019964 ]
 							}
 
 						
@@ -257,6 +249,14 @@
 					"date": "2024-10-03T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 120.7, 22.7 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-03T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 120.9, 23 ]
 							}
 
 						
@@ -355,6 +355,22 @@
 					"date": "2024-10-03T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 72.4, -12.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-03T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 71.1, -12.8 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-03T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 70, -13.2 ]
 							}
 
 						
@@ -485,6 +501,112 @@
 					"date": "2024-10-03T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -45, 20 ]
+							},
+
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-03T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -45.9, 20.4 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-03T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -46.7, 21.1 ]
+							},
+
+							{
+							"magnitudeValue": 125.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-04T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -47.5, 21.5 ]
+							},
+
+							{
+							"magnitudeValue": 125.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-04T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -48.1, 22.3 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_11475",
+			"title": "Tropical Storm Leslie",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11475",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.nhc.noaa.gov/archive/2024/LESLIE.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-03T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -30.1, 10.4 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-03T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -30.5, 10.3 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-03T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -30.8, 10.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-03T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -31.5, 10.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-04T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -32, 10 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-04T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -32.5, 9.8 ]
 							}
 
 						

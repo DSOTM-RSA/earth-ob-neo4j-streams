@@ -4,6 +4,48 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_11632",
+			"title": "Tropical Storm Barijat",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11632",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp2124.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-10T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 150.2, 32.6 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-10T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -150.9, 34.8 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_11475",
 			"title": "Tropical Storm Leslie",
             "description": null,
@@ -231,6 +273,38 @@
 					"date": "2024-10-09T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -47.8, 21.2 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-09T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -48.4, 21.7 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-09T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -49, 22.2 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-10T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -49.3, 22.6 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-10T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -49.8, 22.9 ]
 							}
 
 						
@@ -385,6 +459,38 @@
 					"date": "2024-10-09T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -85.4, 24.5 ]
+							},
+
+							{
+							"magnitudeValue": 125.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-09T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -84.3, 25.8 ]
+							},
+
+							{
+							"magnitudeValue": 105.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-09T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -83.4, 26.9 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-10T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -82, 27.6 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-10T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -80.5, 28.5 ]
 							}
 
 						

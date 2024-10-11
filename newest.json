@@ -4,50 +4,8 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_11632",
-			"title": "Tropical Storm Barijat",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11632",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp2124.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-10T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 150.2, 32.6 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-10T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -150.9, 34.8 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_11475",
-			"title": "Tropical Storm Leslie",
+			"title": "Hurricane Leslie",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11475",
 			"closed": null,
@@ -305,6 +263,38 @@
 					"date": "2024-10-10T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -49.8, 22.9 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-10T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -50.4, 23.2 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-10T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -50.9, 23.9 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-11T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -51.2, 24.4 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-11T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -50.8, 25.5 ]
 							}
 
 						
@@ -491,6 +481,22 @@
 					"date": "2024-10-10T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -80.5, 28.5 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-10T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -78.5, 29.1 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-10T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -76.3, 29.5 ]
 							}
 
 						

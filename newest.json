@@ -3,39 +3,5 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-		{
-			"id": "EONET_11671",
-			"title": "Wildfire in Mongolia, Russian Federation 1022710",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11671",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1022710"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-10-11T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 113.36976525381939, 49.882632370732466 ]
-							}
-
-						
-			]
-		}
-
-		]
+	]
 }

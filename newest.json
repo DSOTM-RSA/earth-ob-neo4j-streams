@@ -3,5 +3,39 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_11718",
+			"title": "Carson Six Wildfire, Harrison, Mississippi",
+            "description": "10 Miles Northeast of Gulfport, MS",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11718",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 850.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-10-16T14:28:00Z",
+					"type": "Point", 
+							"coordinates": [ -89.044, 30.554 ]
+							}
+
+						
+			]
+		}
+
+		]
 }

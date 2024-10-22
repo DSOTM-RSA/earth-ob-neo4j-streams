@@ -4,10 +4,10 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_11726",
-			"title": "Tropical Storm Nadine",
+			"id": "EONET_11729",
+			"title": "Tropical Storm Kristy",
             "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11726",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11729",
 			"closed": null,
 				"categories": [
 					{
@@ -18,8 +18,13 @@
 	    				],
     			"sources": [
 					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/ep1224.tcw"
+				},
+
+							{
 					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2024/NADINE.shtml"
+					"url": "https://www.nhc.noaa.gov/archive/2024/KRISTY.shtml"
 				}
 
 						
@@ -28,49 +33,99 @@
 					{
 							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-10-19T09:00:00Z",
+					"date": "2024-10-21T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -87.1, 17.4 ]
+							"coordinates": [ -101.4, 13.4 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-10-19T15:00:00Z",
+					"date": "2024-10-21T21:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -87.9, 17.3 ]
+							"coordinates": [ -102, 13.5 ]
 							},
 
 							{
 							"magnitudeValue": 40.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-10-19T21:00:00Z",
+					"date": "2024-10-22T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -89.4, 17.4 ]
+							"coordinates": [ -102.7, 13.7 ]
 							},
 
 							{
-							"magnitudeValue": 30.00,
+							"magnitudeValue": 45.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-10-20T03:00:00Z",
+					"date": "2024-10-22T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -90.6, 17.2 ]
+							"coordinates": [ -104, 14.1 ]
 							},
 
 							{
-							"magnitudeValue": 25.00,
+							"magnitudeValue": 50.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-10-20T09:00:00Z",
+					"date": "2024-10-22T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -91.8, 16.8 ]
+							"coordinates": [ -106, 14.5 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_11728",
+			"title": "Tropical Storm Trami",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11728",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp2224.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-21T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 128.2, 13.1 ]
 							},
 
 							{
-							"magnitudeValue": 25.00,
+							"magnitudeValue": 35.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-10-20T15:00:00Z",
+					"date": "2024-10-22T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -93, 16.5 ]
+							"coordinates": [ 127.4, 13.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-22T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 126.6, 14 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-22T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.9, 14.6 ]
 							}
 
 						
@@ -169,6 +224,38 @@
 					"date": "2024-10-21T09:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -75.1, 20.2 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-21T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -75.4, 20.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-21T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -76.1, 21 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-22T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -75.4, 21.8 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-22T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -74.8, 22.7 ]
 							}
 
 						

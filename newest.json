@@ -4,8 +4,98 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_11728",
+			"title": "Tropical Storm Trami",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11728",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/wp2224.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-21T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 128.2, 13.1 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-22T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 127.4, 13.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-22T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 126.6, 14 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-22T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.9, 14.6 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-22T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.1, 15.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-23T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 124.4, 15.7 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-23T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.3, 16.2 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-23T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 122.9, 16.9 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_11729",
-			"title": "Tropical Storm Kristy",
+			"title": "Hurricane Kristy",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11729",
 			"closed": null,
@@ -68,194 +158,38 @@
 					"date": "2024-10-22T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -106, 14.5 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_11728",
-			"title": "Tropical Storm Trami",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11728",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp2224.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-21T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 128.2, 13.1 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-22T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 127.4, 13.5 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-22T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 126.6, 14 ]
-							},
-
-							{
-							"magnitudeValue": 40.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-22T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 125.9, 14.6 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_11727",
-			"title": "Tropical Storm Oscar",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11727",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2024/OSCAR.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-19T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -70.2, 21.3 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-19T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -70.6, 21.4 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-19T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -71.1, 21.4 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-20T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -72.2, 21.3 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-20T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -73.1, 21.1 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-20T15:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -73.9, 20.7 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-20T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -74.3, 20.5 ]
 							},
 
 							{
 							"magnitudeValue": 60.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-10-21T03:00:00Z",
+					"date": "2024-10-22T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -74.6, 20.3 ]
+							"coordinates": [ -107.7, 14.6 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 70.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-10-21T09:00:00Z",
+					"date": "2024-10-23T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -75.1, 20.2 ]
+							"coordinates": [ -109.2, 14.7 ]
 							},
 
 							{
-							"magnitudeValue": 35.00,
+							"magnitudeValue": 80.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-10-21T15:00:00Z",
+					"date": "2024-10-23T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -75.4, 20.3 ]
+							"coordinates": [ -111.1, 14.5 ]
 							},
 
 							{
-							"magnitudeValue": 35.00,
+							"magnitudeValue": 105.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-10-21T21:00:00Z",
+					"date": "2024-10-23T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -76.1, 21 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-22T03:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -75.4, 21.8 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-10-22T09:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -74.8, 22.7 ]
+							"coordinates": [ -113, 14.4 ]
 							}
 
 						

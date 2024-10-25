@@ -119,6 +119,38 @@
 					"date": "2024-10-24T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 119.6, 17.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-24T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 119, 16.7 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-25T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 118.8, 16.9 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-25T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 117.1, 17.7 ]
+							},
+
+							{
+							"magnitudeValue": 55.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-25T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 115.9, 17.6 ]
 							}
 
 						
@@ -254,6 +286,38 @@
 					"date": "2024-10-24T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -119.7, 14 ]
+							},
+
+							{
+							"magnitudeValue": 140.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-24T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -121, 14.1 ]
+							},
+
+							{
+							"magnitudeValue": 140.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-25T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -122.2, 14.4 ]
+							},
+
+							{
+							"magnitudeValue": 130.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-25T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -123.4, 14.9 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-25T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -124.3, 15.5 ]
 							}
 
 						
@@ -328,6 +392,22 @@
 					"date": "2024-10-24T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 87.2, 19.8 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-24T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 87.2, 20.2 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-25T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 86.9, 20.8 ]
 							}
 
 						

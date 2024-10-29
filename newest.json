@@ -4,6 +4,40 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_11748",
+			"title": "Rupe-Market Fire Wildfire, Garfield, Oklahoma",
+            "description": "5 miles south of Garber, OK",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11748",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 717.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-10-28T23:07:00Z",
+					"type": "Point", 
+							"coordinates": [ -97.5683333, 36.3719444 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_11728",
 			"title": "Tropical Storm Trami",
             "description": null,
@@ -247,6 +281,14 @@
 					"date": "2024-10-28T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 108.6, 16 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-28T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 108.7, 16.4 ]
 							}
 
 						
@@ -255,7 +297,7 @@
 
 			{
 			"id": "EONET_11745",
-			"title": "Tropical Storm Kong-Rey",
+			"title": "Typhoon Kong-rey",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11745",
 			"closed": null,
@@ -377,6 +419,106 @@
 					"date": "2024-10-28T12:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 128.4, 16.7 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-28T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 127.9, 17.2 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-29T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 127.2, 17.4 ]
+							},
+
+							{
+							"magnitudeValue": 95.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-29T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 126.5, 17.8 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-10-29T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 126.1, 18.5 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_11746",
+			"title": "Sugar Wildfire, Ozark, Missouri",
+            "description": "12 miles SW of Ava, MO",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11746",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 600.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-10-28T17:42:00Z",
+					"type": "Point", 
+							"coordinates": [ -92.7263, 36.7924 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_11747",
+			"title": "SECOND MTN Wildfire, McCurtain, Oklahoma",
+            "description": "2 miles N of Battiest",
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11747",
+			"closed": null,
+				"categories": [
+					{
+					"id": "wildfires",
+					"title": "Wildfires"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "IRWIN",
+					"url": "https://irwin.doi.gov/observer/"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 584.00,
+					"magnitudeUnit": "acres",
+					"date": "2024-10-28T16:43:00Z",
+					"type": "Point", 
+							"coordinates": [ -94.92027778, 34.4325 ]
 							}
 
 						

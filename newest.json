@@ -4,8 +4,58 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
+			"id": "EONET_11899",
+			"title": "Tropical Storm Rafael",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11899",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2024/RAFAEL.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-04T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -76.7, 15.5 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-05T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -77.2, 16.3 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-05T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -78, 17 ]
+							}
+
+						
+			]
+		},
+
+			{
 			"id": "EONET_11895",
-			"title": "Tropical Storm 24W",
+			"title": "Typhoon Yinxing",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11895",
 			"closed": null,
@@ -55,6 +105,38 @@
 					"date": "2024-11-04T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 131.5, 13.1 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-04T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 130.1, 14.3 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-04T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 129, 15.1 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-05T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 127.5, 16.2 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-05T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 126.5, 16.9 ]
 							}
 
 						
@@ -137,6 +219,30 @@
 					"date": "2024-11-03T21:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -22.3, 37.3 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-04T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -20, 37.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-04T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -18, 38.2 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-04T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -16.2, 38.5 ]
 							}
 
 						

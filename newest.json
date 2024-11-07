@@ -119,6 +119,38 @@
 					"date": "2024-11-06T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 124.4, 18 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-06T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 124, 18.1 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-06T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.6, 18.3 ]
+							},
+
+							{
+							"magnitudeValue": 120.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-07T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.1, 18.6 ]
+							},
+
+							{
+							"magnitudeValue": 125.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-07T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 122.4, 18.5 ]
 							}
 
 						
@@ -185,6 +217,54 @@
 					"date": "2024-11-05T21:00:00Z",
 					"type": "Point", 
 							"coordinates": [ -79.6, 19.1 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-06T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -80.4, 19.7 ]
+							},
+
+							{
+							"magnitudeValue": 80.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-06T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -81.3, 20.6 ]
+							},
+
+							{
+							"magnitudeValue": 95.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-06T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -81.9, 21.4 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-06T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -82.7, 22.6 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-07T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -83.6, 23.5 ]
+							},
+
+							{
+							"magnitudeValue": 90.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-07T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -84.6, 24.2 ]
 							}
 
 						

@@ -159,6 +159,30 @@
 					"date": "2024-11-13T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 115.3, 20.6 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-13T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 115.1, 21.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-13T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 114.4, 21.1 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-14T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 114, 21 ]
 							}
 
 						
@@ -321,6 +345,38 @@
 					"date": "2024-11-13T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 142.6, 12.3 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-13T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 141.2, 11.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-13T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 139.5, 11.6 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-14T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 137.8, 11.2 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-14T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 136.6, 10.6 ]
 							}
 
 						
@@ -329,7 +385,7 @@
 
 			{
 			"id": "EONET_11932",
-			"title": "Typhoon Usagi",
+			"title": "Super Typhoon Usagi",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11932",
 			"closed": null,
@@ -419,6 +475,38 @@
 					"date": "2024-11-13T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 126.5, 15.6 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-13T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.3, 16.2 ]
+							},
+
+							{
+							"magnitudeValue": 130.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-13T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 124, 16.7 ]
+							},
+
+							{
+							"magnitudeValue": 130.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-14T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 123.1, 17.2 ]
+							},
+
+							{
+							"magnitudeValue": 115.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-14T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 122.1, 17.9 ]
 							}
 
 						

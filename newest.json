@@ -4,42 +4,8 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_11976",
-			"title": "Wildfire in Australia 1022956",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11976",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1022956"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-11-14T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 134.68103140531653, -17.346421242067436 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_11906",
-			"title": "Typhoon Man-yi",
+			"title": "Super Typhoon Man-yi",
             "description": null,
 			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11906",
 			"closed": null,
@@ -257,6 +223,38 @@
 					"date": "2024-11-15T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 130.4, 10.9 ]
+							},
+
+							{
+							"magnitudeValue": 100.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-15T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 129, 11.5 ]
+							},
+
+							{
+							"magnitudeValue": 110.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-15T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 127.8, 12 ]
+							},
+
+							{
+							"magnitudeValue": 130.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-16T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 126.7, 12.5 ]
+							},
+
+							{
+							"magnitudeValue": 140.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-16T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 125.6, 13.2 ]
 							}
 
 						
@@ -419,6 +417,38 @@
 					"date": "2024-11-15T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 119.6, 21.1 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-15T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 119.6, 21.5 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-15T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 120, 22.3 ]
+							},
+
+							{
+							"magnitudeValue": 30.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-16T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 120.3, 22.5 ]
+							},
+
+							{
+							"magnitudeValue": 25.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-16T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 120.6, 22.2 ]
 							}
 
 						
@@ -493,6 +523,104 @@
 					"date": "2024-11-15T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 75.4, -11.8 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-15T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 75.1, -12.2 ]
+							},
+
+							{
+							"magnitudeValue": 65.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-15T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 74.4, -12.8 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-16T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 73.6, -13.3 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-16T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 73, -14 ]
+							}
+
+						
+			]
+		},
+
+			{
+			"id": "EONET_11999",
+			"title": "Tropical Storm Sara",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11999",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "NOAA_NHC",
+					"url": "https://www.nhc.noaa.gov/archive/2024/SARA.shtml"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-14T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -83.5, 15.9 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-15T03:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -84.5, 15.8 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-15T09:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -85.1, 16 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-15T15:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -86, 16.1 ]
+							},
+
+							{
+							"magnitudeValue": 45.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-15T21:00:00Z",
+					"type": "Point", 
+							"coordinates": [ -86.2, 16.2 ]
 							}
 
 						

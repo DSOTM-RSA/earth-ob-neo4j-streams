@@ -255,200 +255,38 @@
 					"date": "2024-11-16T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 125.6, 13.2 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_11932",
-			"title": "Super Typhoon Usagi",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11932",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "JTWC",
-					"url": "https://www.metoc.navy.mil/jtwc/products/wp2724.tcw"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-11T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 138, 12.3 ]
 							},
 
 							{
-							"magnitudeValue": 40.00,
+							"magnitudeValue": 140.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-11-11T12:00:00Z",
+					"date": "2024-11-16T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 136.5, 12.5 ]
+							"coordinates": [ 124.5, 13.9 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 120.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-11-11T18:00:00Z",
+					"date": "2024-11-16T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 135, 12.8 ]
+							"coordinates": [ 123.8, 14.3 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 120.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-11-12T00:00:00Z",
+					"date": "2024-11-17T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 133.8, 13.8 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-12T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 131.7, 14 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-12T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 130.4, 14.5 ]
-							},
-
-							{
-							"magnitudeValue": 60.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-12T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 128.9, 14.7 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-13T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 127.7, 15.1 ]
-							},
-
-							{
-							"magnitudeValue": 75.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-13T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 126.5, 15.6 ]
-							},
-
-							{
-							"magnitudeValue": 115.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-13T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 125.3, 16.2 ]
+							"coordinates": [ 122.9, 15 ]
 							},
 
 							{
 							"magnitudeValue": 130.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-11-13T18:00:00Z",
+					"date": "2024-11-17T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ 124, 16.7 ]
-							},
-
-							{
-							"magnitudeValue": 130.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-14T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 123.1, 17.2 ]
-							},
-
-							{
-							"magnitudeValue": 115.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-14T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 122.1, 17.9 ]
-							},
-
-							{
-							"magnitudeValue": 95.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-14T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 121.6, 18.8 ]
-							},
-
-							{
-							"magnitudeValue": 65.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-14T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 120.5, 19.8 ]
-							},
-
-							{
-							"magnitudeValue": 70.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-15T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 120.2, 20.5 ]
-							},
-
-							{
-							"magnitudeValue": 55.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-15T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 119.6, 21.1 ]
-							},
-
-							{
-							"magnitudeValue": 50.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-15T12:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 119.6, 21.5 ]
-							},
-
-							{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-15T18:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 120, 22.3 ]
-							},
-
-							{
-							"magnitudeValue": 30.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-16T00:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 120.3, 22.5 ]
-							},
-
-							{
-							"magnitudeValue": 25.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-16T06:00:00Z",
-					"type": "Point", 
-							"coordinates": [ 120.6, 22.2 ]
+							"coordinates": [ 121.9, 15.8 ]
 							}
 
 						
@@ -555,72 +393,38 @@
 					"date": "2024-11-16T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 73, -14 ]
-							}
-
-						
-			]
-		},
-
-			{
-			"id": "EONET_11999",
-			"title": "Tropical Storm Sara",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_11999",
-			"closed": null,
-				"categories": [
-					{
-					"id": "severeStorms",
-					"title": "Severe Storms"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "NOAA_NHC",
-					"url": "https://www.nhc.noaa.gov/archive/2024/SARA.shtml"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": 35.00,
-					"magnitudeUnit": "kts",
-					"date": "2024-11-14T21:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -83.5, 15.9 ]
 							},
 
 							{
-							"magnitudeValue": 40.00,
+							"magnitudeValue": 90.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-11-15T03:00:00Z",
+					"date": "2024-11-16T12:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -84.5, 15.8 ]
+							"coordinates": [ 72.4, -14.7 ]
 							},
 
 							{
-							"magnitudeValue": 40.00,
+							"magnitudeValue": 100.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-11-15T09:00:00Z",
+					"date": "2024-11-16T18:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -85.1, 16 ]
+							"coordinates": [ 71.7, -15.2 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 105.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-11-15T15:00:00Z",
+					"date": "2024-11-17T00:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -86, 16.1 ]
+							"coordinates": [ 71.2, -15.4 ]
 							},
 
 							{
-							"magnitudeValue": 45.00,
+							"magnitudeValue": 110.00,
 					"magnitudeUnit": "kts",
-					"date": "2024-11-15T21:00:00Z",
+					"date": "2024-11-17T06:00:00Z",
 					"type": "Point", 
-							"coordinates": [ -86.2, 16.2 ]
+							"coordinates": [ 70.7, -16 ]
 							}
 
 						

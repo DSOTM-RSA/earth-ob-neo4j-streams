@@ -4,40 +4,6 @@
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
 		{
-			"id": "EONET_12033",
-			"title": "Wildfire in Iceland 1022991",
-            "description": null,
-			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_12033",
-			"closed": null,
-				"categories": [
-					{
-					"id": "wildfires",
-					"title": "Wildfires"
-				}
-
-	    				],
-    			"sources": [
-					{
-					"id": "GDACS",
-					"url": "https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1022991"
-				}
-
-						
-			],
-					"geometry": [
-					{
-							"magnitudeValue": null,
-					"magnitudeUnit": null,
-					"date": "2024-11-20T19:00:00Z",
-					"type": "Point", 
-							"coordinates": [ -22.370659483563081, 63.888077524686111 ]
-							}
-
-						
-			]
-		},
-
-			{
 			"id": "EONET_11975",
 			"title": "Tropical Cyclone Bheki",
             "description": null,
@@ -297,6 +263,38 @@
 					"date": "2024-11-21T06:00:00Z",
 					"type": "Point", 
 							"coordinates": [ 57.4, -21.1 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-21T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 56.6, -21.6 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-21T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 56, -22.1 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-22T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 55, -22.1 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-11-22T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 54.4, -22 ]
 							}
 
 						

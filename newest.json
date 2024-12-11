@@ -3,5 +3,103 @@
 	"description": "Natural events from EONET.",
 	"link": "https://eonet.gsfc.nasa.gov/api/v3/events",
 	"events": [
-	]
+		{
+			"id": "EONET_12119",
+			"title": "Tropical Cyclone Chido",
+            "description": null,
+			"link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_12119",
+			"closed": null,
+				"categories": [
+					{
+					"id": "severeStorms",
+					"title": "Severe Storms"
+				}
+
+	    				],
+    			"sources": [
+					{
+					"id": "JTWC",
+					"url": "https://www.metoc.navy.mil/jtwc/products/sh0425.tcw"
+				}
+
+						
+			],
+					"geometry": [
+					{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-12-09T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 63.8, -11.7 ]
+							},
+
+							{
+							"magnitudeValue": 35.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-12-09T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 63.1, -11.3 ]
+							},
+
+							{
+							"magnitudeValue": 40.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-12-09T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 62.4, -11.2 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-12-10T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 61.6, -11 ]
+							},
+
+							{
+							"magnitudeValue": 50.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-12-10T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 60.8, -10.6 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-12-10T12:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 60.2, -10.7 ]
+							},
+
+							{
+							"magnitudeValue": 60.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-12-10T18:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 59.6, -10.6 ]
+							},
+
+							{
+							"magnitudeValue": 70.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-12-11T00:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 59.1, -10.5 ]
+							},
+
+							{
+							"magnitudeValue": 75.00,
+					"magnitudeUnit": "kts",
+					"date": "2024-12-11T06:00:00Z",
+					"type": "Point", 
+							"coordinates": [ 58.4, -10.5 ]
+							}
+
+						
+			]
+		}
+
+		]
 }
